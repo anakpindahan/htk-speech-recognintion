@@ -1,0 +1,3 @@
+HERest -C config\wav_to_mfcc.conf -I output\phones0.mlf -t 250.0 150.0 1000.0 -S config\train.scp -H hmms\hmm.0\macros -H hmms\hmm.0\hmmdefs -M hmms\hmm.1 output\monophones0
+HERest -C config\wav_to_mfcc.conf -I output\phones0.mlf -t 250.0 150.0 1000.0 -S config\train.scp -H hmms\hmm.1\macros -H hmms\hmm.1\hmmdefs -M hmms\hmm.2 output\monophones0
+HERest -C config\wav_to_mfcc.conf -I output\phones0.mlf -t 250.0 150.0 1000.0 -S config\train.scp -H hmms\hmm.2\macros -H hmms\hmm.2\hmmdefs -M hmms\hmm.3 output\monophones0

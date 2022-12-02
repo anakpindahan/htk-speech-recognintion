@@ -2,6 +2,7 @@ CL output/triphones1
 TI T_a {(*-a+*,a+*,*-a).transP}
 TI T_c {(*-c+*,c+*,*-c).transP}
 TI T_k {(*-k+*,k+*,*-k).transP}
+TI T_sp {(*-sp+*,sp+*,*-sp).transP}
 TI T_d {(*-d+*,d+*,*-d).transP}
 TI T_l {(*-l+*,l+*,*-l).transP}
 TI T_h {(*-h+*,h+*,*-h).transP}
@@ -26,3 +27,4 @@ TI T_e {(*-e+*,e+*,*-e).transP}
 TI T_f {(*-f+*,f+*,*-f).transP}
 TI T_v {(*-v+*,v+*,*-v).transP}
 TI T_sy {(*-sy+*,sy+*,*-sy).transP}
+TI T_sil {(*-sil+*,sil+*,*-sil).transP}

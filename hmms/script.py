@@ -1,7 +1,7 @@
 with open('hmms/hmm.0/proto', 'r') as reader:
     rows = reader.readlines()
 
-with open('output/monophones1', 'r') as reader:
+with open('output/monophones0', 'r') as reader:
     monophones = reader.readlines()
 
 with open('hmms/hmm.0/hmmdefs', 'w') as writer:

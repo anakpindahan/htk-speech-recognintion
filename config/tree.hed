@@ -264,7 +264,7 @@ TB 350 "ST_sil_4_" {("sil","*-sil+*","sil+*","*-sil").state[4]}
 
 TR 1
 
-AU "output/triphones1"
+AU "output/fulllist"
 CO "output/tiedlist"
 
 ST "output/trees"

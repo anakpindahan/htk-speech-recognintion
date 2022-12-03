@@ -1,1 +1,1 @@
-HCopy -A -D -C config\wav_to_mfcc.conf -S config\targetList.txt
+HCopy -A -D -C config\extractwav.conf -S config\targetList.txt

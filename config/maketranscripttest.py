@@ -16,7 +16,9 @@ with open('output/testword.mlf', 'w') as writer:
         for idx, transcript in enumerate(transcripts):
             if (idx + 1) in [7,9,14,17,25,33,34,35,39,57,58,61,62,63,65,73,79,80,94,103,107,123,129,136,143,150,151,157,159,165,169,177,180,183,217,230,235,241,250,253,259,265,267,285,290]:
                 writer.write('"*/13519' + nim + "_" + str((idx + 1)).zfill(3) + '.lab"\n')
+                writer.write('SENT-START\n')
                 for word in transcript.split():
                     writer.write(word + '\n')
+                writer.write('SENT-END\n')
                 writer.write('.' + '\n')
             

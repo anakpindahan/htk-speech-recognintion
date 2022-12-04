@@ -1,4 +1,4 @@
-acak	a c a k sp
+acak	a c a q sp
 ada	a d a sp
 adalah	a d a l a h sp
 ah	a h sp
@@ -6,6 +6,7 @@ aja	a j a sp
 akal	a k a l sp
 akan	a k a n sp
 akrab	a k r a b sp
+akrab   a k r a p sp
 aku	a k u sp
 alasan	a l a s a n sp
 anda	a n d a sp
@@ -24,18 +25,18 @@ atau	a t a u sp
 awal	a w a l sp
 ayo	a y o sp
 ayolah	a y o l a h sp
-bacaan	b a c a a n sp
+bacaan	b a c a q a n sp
 bacanya	b a c a ny a sp
 bagaimana	b a g a i m a n a sp
 bagaimanapun	b a g a i m a n a p u n sp
 bagian	b a g i a n sp
 bagus	b a g u s sp
-baik	b a i k sp
-baiklah	b a i k l a h sp
+baik	b a i q sp
+baiklah	b a i q l a h sp
 bakal	b a k a l sp
 banget	b a ng e t sp
 bantal	b a n t a l sp
-banyak	b a ny a k sp
+banyak	b a ny a q sp
 bareng	b a r e ng sp
 barusan	b a r u s a n sp
 batas	b a t a s sp
@@ -57,7 +58,7 @@ berdua	b e r d u a sp
 berguna	b e r g u n a sp
 berhenti	b e r h e n t i sp
 beri	b e r i sp
-berisik	b e r i s i k sp
+berisik	b e r i s i q sp
 berlima	b e r l i m a sp
 berpendidikan	b e r p e n d i d i k a n sp
 bersosialisasi	b e r s o s i a l i s a s i sp
@@ -85,7 +86,7 @@ buku	b u k u sp
 bukunya	b u k u ny a sp
 bulan	b u l a n sp
 bumbu	b u m b u sp
-cantik	c a n t i k sp
+cantik	c a n t i q sp
 cara	c a r a sp
 cari	c a r i sp
 cat	c a t sp
@@ -93,7 +94,7 @@ cerita	c e r i t a sp
 ceritakan	c e r i t a k a n sp
 chitanda	c i t a n d a sp
 coba	c o b a sp
-cocok	c o c o k sp
+cocok	c o c o q sp
 contoh	c o n t o h sp
 cuma	c u m a sp
 d	d ex sp
@@ -115,9 +116,9 @@ dibaca	d i b a c a sp
 dibahas	d i b a h a s sp
 dibawa	d i b a w a sp
 digunakan	d i g u n a k a n sp
-dijadiin	d i j a d i i n sp
+dijadiin	d i j a d i q i n sp
 dikatakan	d i k a t a k a n sp
-dikembaliin	d i k e m b a l i i n sp
+dikembaliin	d i k e m b a l i q i n sp
 dikembalikan	d i k e m b a l i k a n sp
 dilakukan	d i l a k u k a n sp
 dilihat	d i l i h a t sp
@@ -132,7 +133,7 @@ disetujui	d i s e t u j u i sp
 disimpulkan	d i s i m p u l k a n sp
 disuruh	d i s u r u h sp
 ditaruh	d i t a r u h sp
-ditumpuk	d i t u m p u k sp
+ditumpuk	d i t u m p u q sp
 dua	d u a sp
 dulu	d u l u sp
 e	ex sp
@@ -141,20 +142,19 @@ emangnya	e m a ng ny a sp
 empat	e m p a t sp
 energi	ex n ex r g i sp
 energimu	ex n ex r g i m u sp
-engak	e ng g a k sp
-enggak	e ng g a k sp
+engak	e ng g a q sp
+enggak	e ng g a q sp
 eru	ex r u sp
-euh	e h sp
 f	ex f sp
 festival	f e s t i v a l sp
 festival    f e s t i f a l sp
 fuku	f u k u sp
-gak	g a k sp
+gak	g a q sp
 ganda	g a n d a sp
 ganggu	g a ng g u sp
 ganti	g a n t i sp
 gantian	g a n t i a n sp
-gantiin	g a n t i i n sp
+gantiin	g a n t i q i n sp
 garing	g a r i ng sp
 gedung	g e d u ng sp
 gimana	g i m a n a sp
@@ -174,18 +174,19 @@ hari	h a r i sp
 harus	h a r u s sp
 harusnya	h a r u s ny a sp
 hebat	h ex b a t sp
+heeh	h e q e h sp
 heh	h ex h sp
 hei	h ex i sp
 hentikan	h e n t i k a n sp
-heu	h e sp
 hidup	h i d u p sp
-hmm	h m m sp
+hmm	h m sp
 houtarou	h o u t a r o u sp
 hubungan	h u b u ng a n sp
 hujan	h u j a n sp
 ibara	i b a r a sp
 ibu	i b u sp
 ide	i d e sp
+ide i d ex sp
 ikut	i k u t sp
 ikuti	i k u t i sp
 ingin	i ng i n sp
@@ -206,11 +207,11 @@ jawabannya	j a w a b a n ny a sp
 jelas	j e l a s sp
 jir	j i r sp
 juga	j u g a sp
-jumat	j u m a t sp
+jumat	j u m q a t sp
 jumpa	j u m p a sp
 kaburaya	k a b u r a y a sp
 kah	k a h sp
-kakak	k a k a k sp
+kakak	k a k a q sp
 kalau	k a l a u sp
 kalaupun	k a l a u p u n sp
 kali	k a l i sp
@@ -231,7 +232,7 @@ kau	k a u sp
 kayak	k a y a k sp
 kayaknya	k a y a k ny a sp
 ke	k e sp
-kebalik	k e b a l i k sp
+kebalik	k e b a l i q sp
 kebenarannya	k e b e n a r a n ny a sp
 keberuntungan	k e b e r u n t u ng a n sp
 kebetulan	k e b e t u l a n sp
@@ -258,8 +259,9 @@ ketemu	k e t e m u sp
 ketua	k e t u a sp
 kita	k i t a sp
 klub	k l u b sp
-kok	k o k sp
-komik	k o m i k sp
+klub    k l u p sp
+kok	k o q sp
+komik	k o m i q sp
 kumpulan	k u m p u l a n sp
 kupikirkan	k u p i k i r k a n sp
 kutanyakan	k u t a ny a k a n sp
@@ -277,10 +279,10 @@ lelah	l e l a h sp
 lelucon	l e l u c o n sp
 lihat	l i h a t sp
 lima	l i m a sp
-loo	l o o sp
+loo	l o sp
+luar	l u a r sp
 lukisan	l u k i s a n sp
-luuuar	l u u u a r sp
-maaf	m a a f sp
+maaf	m a q a f sp
 maka	m a k a sp
 makai	m a k a i sp
 makan	m a k a n sp
@@ -293,7 +295,7 @@ malas	m a l a s sp
 mana	m a n a sp
 masakan	m a s a k a n sp
 masih	m a s i h sp
-masuk	m a s u k sp
+masuk	m a s u q sp
 mau	m a u sp
 mayaka	m a y a k a sp
 melakukan	m e l a k u k a n sp
@@ -315,7 +317,7 @@ meminjam	m e m i n j a m sp
 meminjamnya	m e m i n j a m ny a sp
 memuaskan	m e m u a s k a n sp
 memutuskan	m e m u t u s k a n sp
-menarik	m e n a r i k sp
+menarik	m e n a r i q sp
 mending	m e n d i ng sp
 menemukan	m e n e m u k a n sp
 menerimanya	m e n e r i m a ny a sp
@@ -325,10 +327,10 @@ mengembalikannya	m e ng e m b a l i k a n ny a sp
 mengerti	m e ng e r t i sp
 mengganggu	m e ng g a ng g u sp
 menghadap	m e ng h a d a p sp
-mengulek	m e ng u l e k sp
+mengulek	m e ng u l e q sp
 menjadi	m e n j a d i sp
 menjahit	m e n j a h i t sp
-menolak	m e n o l a k sp
+menolak	m e n o l a q sp
 menulis	m e n u l i s sp
 menulisnya	m e n u l i s ny a sp
 menurut	m e n u r u t sp
@@ -342,7 +344,7 @@ meski	m e s k i sp
 mikir	m i k i r sp
 mikirin	m i k i r i n sp
 milih	m i l i h sp
-milik	m i l i k sp
+milik	m i l i q sp
 minggu	m i ng g u sp
 minggunya	m i ng g u ny a sp
 minjam	m i n j a m sp
@@ -356,25 +358,28 @@ mudah	m u d a h sp
 mukamu	m u k a m u sp
 mungkin	m u ng k i n sp
 murid	m u r i d sp
+murid   m u r i t sp
 nah	n a h sp
 nama	n a m a sp
 namanya	n a m a ny a sp
 nanti	n a n t i sp
 naungan	n a u ng a n sp
 ngadap	ng a d a p sp
+ngadap  ng h a d a p sp
 ngatur	ng a t u r sp
-ngemanfaatinmu	ng e m a n f a a t i n m u sp
+ngemanfaatinmu	ng e m a n f a q a t i n m u sp
 ngumpul	ng u m p u l sp
 nih	n i h sp
-nolak	n o l a k sp
+nolak	n o l a q sp
 nyium	ny i u m sp
 nyuruh	ny u r u h sp
 oh	o h sp
 oi	o i sp
+oi  o y sp
 oke	o k ex sp
 oktober	o k t o b e r sp
 olahraga	o l a h r a g a sp
-ooh	o o h sp
+ooh	o h sp
 orang	o r a ng sp
 oreki	o r ex k i sp
 pada	p a d a sp
@@ -384,7 +389,7 @@ panen	p a n ex n sp
 partisipasi	p a r t i s i p a s i sp
 pasangan	p a s a ng a n sp
 pasti	p a s t i sp
-pekerjaannya	p e k e r j a a n ny a sp
+pekerjaannya	p e k e r j a q a n ny a sp
 pelajaran	p e l a j a r a n sp
 pemalas	p e m a l a s sp
 pembimbing	p e m b i m b i ng sp
@@ -395,15 +400,15 @@ penasaran	p e n a s a r a n sp
 pengencer	p e ng ex n c ex r sp
 penjelasannya	p e n j e l a s a n ny a sp
 penting	p e n t i ng sp
-perasaanku	p e r a s a a n k u sp
+perasaanku	p e r a s a q a n k u sp
 percuma	p e r c u m a sp
 perempuan	p e r e m p u a n sp
 pergi	p e r g i sp
 permasalahan	p e r m a s a l a h a n sp
 pernah	p e r n a h sp
-perpustakaan	p e r p u s t a k a a n sp
-perpustakaannya	p e r p u s t a k a a n ny a sp
-pertanyaannya	p e r t a ny a a n ny a sp
+perpustakaan	p e r p u s t a k a q a n sp
+perpustakaannya	p e r p u s t a k a q a n ny a sp
+pertanyaannya	p e r t a ny a q a n ny a sp
 pesan	p e s a n sp
 piket	p i k ex t sp
 piketku	p i k ex t k u sp
@@ -413,9 +418,10 @@ pikirkan	p i k i r k a n sp
 pilihan	p i l i h a n sp
 pinjam	p i n j a m sp
 pintar	p i n t a r sp
-pokoknya	p o k o k ny a sp
+pokoknya	p o k o q ny a sp
 pribadi	p r i b a d i sp
 produksi	p r o d u k s i sp
+produksi    p r o d u q s i sp
 publikasikan	p u b l i k a s i k a n sp
 pulang	p u l a ng sp
 puluh	p u l u h sp
@@ -431,7 +437,7 @@ ringan	r i ng a n sp
 ruang	r u a ng sp
 rumah	r u m a h sp
 rumahku	r u m a h k u sp
-saat	s a a t sp
+saat	s a q a t sp
 saja	s a j a sp
 salah	s a l a h sp
 salam	s a l a m sp
@@ -491,15 +497,18 @@ siang	s i a ng sp
 siapa	s i a p a sp
 sih	s i h sp
 silakan	s i l a k a n sp
+silakan s i l a h k a n sp
 sini	s i n i sp
 sip	s i p sp
 siput	s i p u t sp
 sisa	s i s a sp
 sisi	s i s i sp
 siswi	s i s w i sp
-sma	ex s ex m a sp
+sma	ex s ex m q a sp
+sma ex s q ex m q a sp
 smp	ex s ex m p ex sp
-soalnya	s o a l ny a sp
+smp ex s q ex m q p ex sp
+soalnya	s o q a l ny a sp
 stan	s t a n sp
 suatu	s u a t u sp
 sudah	s u d a h sp
@@ -510,7 +519,7 @@ tadi	t a d i sp
 tahu	t a h u sp
 tahun	t a h u n sp
 tahunan	t a h u n a n sp
-tak	t a k sp
+tak	t a q sp
 tameng	t a m ex ng sp
 tandus	t a n d u s sp
 tangan	t a ng a n sp
@@ -519,11 +528,11 @@ tanya	t a ny a sp
 tapi	t a p i sp
 teh	t ex h sp
 tempat	t e m p a t sp
-tengoklah	t ex ng o k l a h sp
+tengoklah	t ex ng o q l a h sp
 tentang	t e n t a ng sp
 tentu	t e n t u sp
 terasa	t e r a s a sp
-terbaik	t e r b a i k sp
+terbaik	t e r b a i q sp
 terbatasnya	t e r b a t a s ny a sp
 terdengar	t e r d e ng a r sp
 terima	t e r i m a sp
@@ -537,7 +546,7 @@ terutama	t e r u t a m a sp
 tetap	t e t a p sp
 tiap	t i a p sp
 tiba	t i b a sp
-tidak	t i d a k sp
+tidak	t i d a q sp
 tolong	t o l o ng sp
 tradisi	t r a d i s i sp
 tuan	t u a n sp

@@ -3,40 +3,41 @@ WARNING: no script file data/lexicon/dictwithoutsp.ded
 Dictionary Usage Statistics
 ---------------------------
   Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
-dictwithouts       557        557        559        559
-    dict-tri       557        557        559        559
+dictwithouts       556        556        568        568
+    dict-tri       556        556        568        568
 
-557 words required, 0 missing
+556 words required, 0 missing
 
 New Phone Usage Counts
 ---------------------
-  1. a     :   684
+  1. a     :   691
   2. c     :    29
-  3. k     :   198
-  4. sp    :   559
-  5. d     :    84
-  6. l     :   126
-  7. h     :    93
+  3. q     :    47
+  4. sp    :   568
+  5. d     :    87
+  6. l     :   128
+  7. h     :    95
   8. j     :    36
-  9. n     :   218
- 10. r     :   148
- 11. b     :   117
- 12. u     :   220
- 13. s     :   164
- 14. ex    :    41
- 15. ng    :    75
- 16. g     :    49
- 17. t     :   163
- 18. o     :    46
- 19. i     :   273
- 20. p     :   100
- 21. ny    :    60
- 22. m     :   189
- 23. w     :     8
- 24. y     :    15
- 25. e     :   242
- 26. f     :     9
- 27. v     :     1
- 28. sy    :     1
+  9. k     :   175
+ 10. n     :   219
+ 11. r     :   151
+ 12. b     :   117
+ 13. p     :   105
+ 14. u     :   221
+ 15. s     :   168
+ 16. ex    :    47
+ 17. ng    :    76
+ 18. g     :    49
+ 19. t     :   164
+ 20. o     :    46
+ 21. i     :   277
+ 22. ny    :    60
+ 23. m     :   191
+ 24. w     :     8
+ 25. y     :    16
+ 26. e     :   242
+ 27. f     :     9
+ 28. v     :     1
+ 29. sy    :     1
 
 Dictionary output/dict-tri created

@@ -42,7 +42,10 @@ for idx, _ in enumerate(transcripts):
         with open(base_root + name_file, 'w') as writer:
             while(transcripts[idx] != '.\n'):
                 writer.write(transcripts[idx])
-                idx += 1
+                if transcripts[idx] == 'sil\n':
+                    idx += 2
+                else:
+                    idx += 1
 
 # for last_nim in ['093', '170', '178', '198', '211']:
 #     for i in range(1, 300):

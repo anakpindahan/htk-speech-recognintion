@@ -27,4 +27,5 @@ TI T_e {(*-e+*,e+*,*-e).transP}
 TI T_f {(*-f+*,f+*,*-f).transP}
 TI T_v {(*-v+*,v+*,*-v).transP}
 TI T_sy {(*-sy+*,sy+*,*-sy).transP}
+TI T_q {(*-q+*,q+*,*-q).transP}
 TI T_sil {(*-sil+*,sil+*,*-sil).transP}

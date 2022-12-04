@@ -61,7 +61,7 @@
 13519093_061.wav	Di sini adalah tempat orang berpendidikan.
 13519093_062.wav	Ini bukan tempat yang cocok dengan kau.
 13519093_063.wav	Kau pikir tempat ini cocok dengan kau, ya?
-13519093_064.wav	Luuuar biasa.
+13519093_064.wav	Luar biasa.
 13519093_065.wav	Seperti biasa kau itu menyebalkan.
 13519093_066.wav	Kalau kau datang hanya untuk ganggu, mending pergi saja.
 13519093_067.wav	Anu.
@@ -271,7 +271,7 @@
 13519093_271.wav	Jadi Oreki, kita mau pergi ke mana?
 13519093_272.wav	Kelas seni.
 13519093_273.wav	Itu ada di gedung lain, kan?
-13519093_274.wav	Heu euh.
+13519093_274.wav	Heeh.
 13519093_275.wav	Karna jauh, makanya aku gak mau pergi.
 13519093_276.wav	Kau ini, malas banget!
 13519093_277.wav	Memangnya ada apa di sana?

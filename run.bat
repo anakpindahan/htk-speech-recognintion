@@ -1,3 +1,4 @@
+CALL wavtomfcc.bat
 CALL parsegrammar.bat
 CALL phonerespawn.bat
 CALL iterate.bat

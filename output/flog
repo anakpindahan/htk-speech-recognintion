@@ -1,0 +1,42 @@
+WARNING: no script file data/lexicon/dictwithoutsil.ded
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+dictwithouts       557        557        558        558
+    dict-tri       557        557        558        558
+
+557 words required, 0 missing
+
+New Phone Usage Counts
+---------------------
+  1. a     :   683
+  2. c     :    29
+  3. k     :   198
+  4. sp    :  1116
+  5. d     :    84
+  6. l     :   126
+  7. h     :    93
+  8. j     :    36
+  9. n     :   218
+ 10. r     :   148
+ 11. b     :   117
+ 12. u     :   220
+ 13. s     :   162
+ 14. ex    :    41
+ 15. ng    :    75
+ 16. g     :    48
+ 17. t     :   162
+ 18. o     :    45
+ 19. i     :   272
+ 20. p     :   100
+ 21. ny    :    60
+ 22. m     :   189
+ 23. w     :     8
+ 24. y     :    15
+ 25. e     :   242
+ 26. f     :     9
+ 27. v     :     1
+ 28. sy    :     1
+
+Dictionary output/dict-tri created

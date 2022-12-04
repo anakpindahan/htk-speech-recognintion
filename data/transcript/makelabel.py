@@ -1,6 +1,6 @@
 # import re
 
-with open('output/phones1.mlf', 'r') as reader:
+with open('output/phones0.mlf', 'r') as reader:
     transcripts = reader.readlines()
 
 # reg0 = re.compile('[^a-zA-Z -]')

@@ -447,7 +447,6 @@ ex-r+g
 r-g+i
 g-i+m
 e+ng
-ng-a+k
 g-a+k
 ex+r
 ex-r+u
@@ -981,6 +980,7 @@ a-t+o
 t-o+sy
 o-sy+i
 sy-i
+t-o+s
 ex+s
 ex-s+d
 s-d+ex
@@ -1120,7 +1120,6 @@ a
 c
 k
 d
-ex
 l
 h
 j
@@ -1129,6 +1128,7 @@ r
 b
 u
 s
+ex
 ng
 g
 t

@@ -1,560 +1,561 @@
-acak            a+c a-c+a c-a+k a-k sp sp
-ada             a+d a-d+a d-a sp sp
-adalah          a+d a-d+a d-a+l a-l+a l-a+h a-h sp sp
-ah              a+h a-h sp sp
-aja             a+j a-j+a j-a sp sp
-akal            a+k a-k+a k-a+l a-l sp sp
-akan            a+k a-k+a k-a+n a-n sp sp
-akrab           a+k a-k+r k-r+a r-a+b a-b sp sp
-aku             a+k a-k+u k-u sp sp
-alasan          a+l a-l+a l-a+s a-s+a s-a+n a-n sp sp
-anda            a+n a-n+d n-d+a d-a sp sp
-aneh            a+n a-n+ex n-ex+h ex-h sp sp
-anggaran        a+ng a-ng+g ng-g+a g-a+r a-r+a r-a+n a-n sp sp
-antologi        a+n a-n+t n-t+o t-o+l o-l+o l-o+g o-g+i g-i sp sp
-anu             a+n a-n+u n-u sp sp
-apa             a+p a-p+a p-a sp sp
-apalagi         a+p a-p+a p-a+l a-l+a l-a+g a-g+i g-i sp sp
-apanya          a+p a-p+a p-a+ny a-ny+a ny-a sp sp
-arsip           a+r a-r+s r-s+i s-i+p i-p sp sp
-artinya         a+r a-r+t r-t+i t-i+ny i-ny+a ny-a sp sp
-asmaramu        a+s a-s+m s-m+a m-a+r a-r+a r-a+m a-m+u m-u sp sp
-atas            a+t a-t+a t-a+s a-s sp sp
-atau            a+t a-t+a t-a+u a-u sp sp
-awal            a+w a-w+a w-a+l a-l sp sp
-ayo             a+y a-y+o y-o sp sp
-ayolah          a+y a-y+o y-o+l o-l+a l-a+h a-h sp sp
-bacaan          b+a b-a+c a-c+a c-a+a a-a+n a-n sp sp
-bacanya         b+a b-a+c a-c+a c-a+ny a-ny+a ny-a sp sp
-bagaimana       b+a b-a+g a-g+a g-a+i a-i+m i-m+a m-a+n a-n+a n-a sp sp
-bagaimanapun    b+a b-a+g a-g+a g-a+i a-i+m i-m+a m-a+n a-n+a n-a+p a-p+u p-u+n u-n sp sp
-bagian          b+a b-a+g a-g+i g-i+a i-a+n a-n sp sp
-bagus           b+a b-a+g a-g+u g-u+s u-s sp sp
-baik            b+a b-a+i a-i+k i-k sp sp
-baiklah         b+a b-a+i a-i+k i-k+l k-l+a l-a+h a-h sp sp
-bakal           b+a b-a+k a-k+a k-a+l a-l sp sp
-banget          b+a b-a+ng a-ng+e ng-e+t e-t sp sp
-bantal          b+a b-a+n a-n+t n-t+a t-a+l a-l sp sp
-banyak          b+a b-a+ny a-ny+a ny-a+k a-k sp sp
-bareng          b+a b-a+r a-r+e r-e+ng e-ng sp sp
-barusan         b+a b-a+r a-r+u r-u+s u-s+a s-a+n a-n sp sp
-batas           b+a b-a+t a-t+a t-a+s a-s sp sp
-bau             b+a b-a+u a-u sp sp
-baunya          b+a b-a+u a-u+ny u-ny+a ny-a sp sp
-beda            b+ex b-ex+d ex-d+a d-a sp sp
-begitu          b+e b-e+g e-g+i g-i+t i-t+u t-u sp sp
-belakang        b+e b-e+l e-l+a l-a+k a-k+a k-a+ng a-ng sp sp
-belum           b+e b-e+l e-l+u l-u+m u-m sp sp
-benar           b+e b-e+n e-n+a n-a+r a-r sp sp
-benda           b+e b-e+n e-n+d n-d+a d-a sp sp
-bener           b+e b-e+n e-n+e n-e+r e-r sp sp
-beneran         b+e b-e+n e-n+e n-e+r e-r+a r-a+n a-n sp sp
-bentar          b+e b-e+n e-n+t n-t+a t-a+r a-r sp sp
-berarti         b+e b-e+r e-r+a r-a+r a-r+t r-t+i t-i sp sp
-berbeda         b+e b-e+r e-r+b r-b+ex b-ex+d ex-d+a d-a sp sp
-bercanda        b+e b-e+r e-r+c r-c+a c-a+n a-n+d n-d+a d-a sp sp
-berdua          b+e b-e+r e-r+d r-d+u d-u+a u-a sp sp
-berguna         b+e b-e+r e-r+g r-g+u g-u+n u-n+a n-a sp sp
-berhenti        b+e b-e+r e-r+h r-h+e h-e+n e-n+t n-t+i t-i sp sp
-beri            b+e b-e+r e-r+i r-i sp sp
-berisik         b+e b-e+r e-r+i r-i+s i-s+i s-i+k i-k sp sp
-berlima         b+e b-e+r e-r+l r-l+i l-i+m i-m+a m-a sp sp
-berpendidikan   b+e b-e+r e-r+p r-p+e p-e+n e-n+d n-d+i d-i+d i-d+i d-i+k i-k+a k-a+n a-n sp sp
-bersosialisasi  b+e b-e+r e-r+s r-s+o s-o+s o-s+i s-i+a i-a+l a-l+i l-i+s i-s+a s-a+s a-s+i s-i sp sp
-berturut        b+e b-e+r e-r+t r-t+u t-u+r u-r+u r-u+t u-t sp sp
-berubah         b+e b-e+r e-r+u r-u+b u-b+a b-a+h a-h sp sp
-beruntung       b+e b-e+r e-r+u r-u+n u-n+t n-t+u t-u+ng u-ng sp sp
-besar           b+e b-e+s e-s+a s-a+r a-r sp sp
-besarnya        b+e b-e+s e-s+a s-a+r a-r+ny r-ny+a ny-a sp sp
-betul           b+e b-e+t e-t+u t-u+l u-l sp sp
-biar            b+i b-i+a i-a+r a-r sp sp
-biarin          b+i b-i+a i-a+r a-r+i r-i+n i-n sp sp
-biasa           b+i b-i+a i-a+s a-s+a s-a sp sp
-bicara          b+i b-i+c i-c+a c-a+r a-r+a r-a sp sp
-bilang          b+i b-i+l i-l+a l-a+ng a-ng sp sp
-bingung         b+i b-i+ng i-ng+u ng-u+ng u-ng sp sp
-bisa            b+i b-i+s i-s+a s-a sp sp
-boleh           b+o b-o+l o-l+ex l-ex+h ex-h sp sp
-bolehkah        b+o b-o+l o-l+ex l-ex+h ex-h+k h-k+a k-a+h a-h sp sp
-bolos           b+o b-o+l o-l+o l-o+s o-s sp sp
-buat            b+u b-u+a u-a+t a-t sp sp
-budaya          b+u b-u+d u-d+a d-a+y a-y+a y-a sp sp
-buka            b+u b-u+k u-k+a k-a sp sp
-bukan           b+u b-u+k u-k+a k-a+n a-n sp sp
-buku            b+u b-u+k u-k+u k-u sp sp
-bukunya         b+u b-u+k u-k+u k-u+ny u-ny+a ny-a sp sp
-bulan           b+u b-u+l u-l+a l-a+n a-n sp sp
-bumbu           b+u b-u+m u-m+b m-b+u b-u sp sp
-cantik          c+a c-a+n a-n+t n-t+i t-i+k i-k sp sp
-cara            c+a c-a+r a-r+a r-a sp sp
-cari            c+a c-a+r a-r+i r-i sp sp
-cat             c+a c-a+t a-t sp sp
-cerita          c+e c-e+r e-r+i r-i+t i-t+a t-a sp sp
-ceritakan       c+e c-e+r e-r+i r-i+t i-t+a t-a+k a-k+a k-a+n a-n sp sp
-chitanda        c+i c-i+t i-t+a t-a+n a-n+d n-d+a d-a sp sp
-coba            c+o c-o+b o-b+a b-a sp sp
-cocok           c+o c-o+c o-c+o c-o+k o-k sp sp
-contoh          c+o c-o+n o-n+t n-t+o t-o+h o-h sp sp
-cuma            c+u c-u+m u-m+a m-a sp sp
-d               d+ex d-ex sp sp
-daftar          d+a d-a+f a-f+t f-t+a t-a+r a-r sp sp
-dalam           d+a d-a+l a-l+a l-a+m a-m sp sp
-dan             d+a d-a+n a-n sp sp
-dana            d+a d-a+n a-n+a n-a sp sp
-dari            d+a d-a+r a-r+i r-i sp sp
-daripada        d+a d-a+r a-r+i r-i+p i-p+a p-a+d a-d+a d-a sp sp
-datang          d+a d-a+t a-t+a t-a+ng a-ng sp sp
-deh             d+ex d-ex+h ex-h sp sp
-dengan          d+e d-e+ng e-ng+a ng-a+n a-n sp sp
-dengar          d+e d-e+ng e-ng+a ng-a+r a-r sp sp
-depan           d+e d-e+p e-p+a p-a+n a-n sp sp
-di              d+i d-i sp sp
-dia             d+i d-i+a i-a sp sp
-diam            d+i d-i+a i-a+m a-m sp sp
-dibaca          d+i d-i+b i-b+a b-a+c a-c+a c-a sp sp
-dibahas         d+i d-i+b i-b+a b-a+h a-h+a h-a+s a-s sp sp
-dibawa          d+i d-i+b i-b+a b-a+w a-w+a w-a sp sp
-digunakan       d+i d-i+g i-g+u g-u+n u-n+a n-a+k a-k+a k-a+n a-n sp sp
-dijadiin        d+i d-i+j i-j+a j-a+d a-d+i d-i+i i-i+n i-n sp sp
-dikatakan       d+i d-i+k i-k+a k-a+t a-t+a t-a+k a-k+a k-a+n a-n sp sp
-dikembaliin     d+i d-i+k i-k+e k-e+m e-m+b m-b+a b-a+l a-l+i l-i+i i-i+n i-n sp sp
-dikembalikan    d+i d-i+k i-k+e k-e+m e-m+b m-b+a b-a+l a-l+i l-i+k i-k+a k-a+n a-n sp sp
-dilakukan       d+i d-i+l i-l+a l-a+k a-k+u k-u+k u-k+a k-a+n a-n sp sp
-dilihat         d+i d-i+l i-l+i l-i+h i-h+a h-a+t a-t sp sp
-dimulai         d+i d-i+m i-m+u m-u+l u-l+a l-a+i a-i sp sp
-dipakai         d+i d-i+p i-p+a p-a+k a-k+a k-a+i a-i sp sp
-diperbolehkan   d+i d-i+p i-p+e p-e+r e-r+b r-b+o b-o+l o-l+ex l-ex+h ex-h+k h-k+a k-a+n a-n sp sp
-dipikirkan      d+i d-i+p i-p+i p-i+k i-k+i k-i+r i-r+k r-k+a k-a+n a-n sp sp
-dipinjam        d+i d-i+p i-p+i p-i+n i-n+j n-j+a j-a+m a-m sp sp
-disebutnya      d+i d-i+s i-s+e s-e+b e-b+u b-u+t u-t+ny t-ny+a ny-a sp sp
-diselenggarakan d+i d-i+s i-s+e s-e+l e-l+e l-e+ng e-ng+g ng-g+a g-a+r a-r+a r-a+k a-k+a k-a+n a-n sp sp
-disetujui       d+i d-i+s i-s+e s-e+t e-t+u t-u+j u-j+u j-u+i u-i sp sp
-disimpulkan     d+i d-i+s i-s+i s-i+m i-m+p m-p+u p-u+l u-l+k l-k+a k-a+n a-n sp sp
-disuruh         d+i d-i+s i-s+u s-u+r u-r+u r-u+h u-h sp sp
-ditaruh         d+i d-i+t i-t+a t-a+r a-r+u r-u+h u-h sp sp
-ditumpuk        d+i d-i+t i-t+u t-u+m u-m+p m-p+u p-u+k u-k sp sp
-dua             d+u d-u+a u-a sp sp
-dulu            d+u d-u+l u-l+u l-u sp sp
-e               ex sp sp
-eh              ex+h ex-h sp sp
-emangnya        e+m e-m+a m-a+ng a-ng+ny ng-ny+a ny-a sp sp
-empat           e+m e-m+p m-p+a p-a+t a-t sp sp
-energi          ex+n ex-n+ex n-ex+r ex-r+g r-g+i g-i sp sp
-energimu        ex+n ex-n+ex n-ex+r ex-r+g r-g+i g-i+m i-m+u m-u sp sp
-engak           e+ng e-ng+a ng-a+k a-k sp sp
-enggak          e+ng e-ng+g ng-g+a g-a+k a-k sp sp
-eru             ex+r ex-r+u r-u sp sp
-euh             e+h e-h sp sp
-f               ex+f ex-f sp sp
-festival        f+e f-e+s e-s+t s-t+i t-i+v i-v+a v-a+l a-l sp sp
-festival        f+e f-e+s e-s+t s-t+i t-i+f i-f+a f-a+l a-l sp sp
-fuku            f+u f-u+k u-k+u k-u sp sp
-gak             g+a g-a+k a-k sp sp
-ganda           g+a g-a+n a-n+d n-d+a d-a sp sp
-ganggu          g+a g-a+ng a-ng+g ng-g+u g-u sp sp
-ganti           g+a g-a+n a-n+t n-t+i t-i sp sp
-gantian         g+a g-a+n a-n+t n-t+i t-i+a i-a+n a-n sp sp
-gantiin         g+a g-a+n a-n+t n-t+i t-i+i i-i+n i-n sp sp
-garing          g+a g-a+r a-r+i r-i+ng i-ng sp sp
-gedung          g+e g-e+d e-d+u d-u+ng u-ng sp sp
-gimana          g+i g-i+m i-m+a m-a+n a-n+a n-a sp sp
-gini            g+i g-i+n i-n+i n-i sp sp
-ginikah         g+i g-i+n i-n+i n-i+k i-k+a k-a+h a-h sp sp
-gitu            g+i g-i+t i-t+u t-u sp sp
-grup            g+r g-r+u r-u+p u-p sp sp
-gunakan         g+u g-u+n u-n+a n-a+k a-k+a k-a+n a-n sp sp
-guru            g+u g-u+r u-r+u r-u sp sp
-ha              h+a h-a sp sp
-hadeh           h+a h-a+d a-d+e d-e+h e-h sp sp
-hah             h+a h-a+h a-h sp sp
-hal             h+a h-a+l a-l sp sp
-hampa           h+a h-a+m a-m+p m-p+a p-a sp sp
-hanya           h+a h-a+ny a-ny+a ny-a sp sp
-hari            h+a h-a+r a-r+i r-i sp sp
-harus           h+a h-a+r a-r+u r-u+s u-s sp sp
-harusnya        h+a h-a+r a-r+u r-u+s u-s+ny s-ny+a ny-a sp sp
-hebat           h+ex h-ex+b ex-b+a b-a+t a-t sp sp
-heh             h+ex h-ex+h ex-h sp sp
-hei             h+ex h-ex+i ex-i sp sp
-hentikan        h+e h-e+n e-n+t n-t+i t-i+k i-k+a k-a+n a-n sp sp
-heu             h+e h-e sp sp
-hidup           h+i h-i+d i-d+u d-u+p u-p sp sp
-hmm             h+m h-m+m m-m sp sp
-houtarou        h+o h-o+u o-u+t u-t+a t-a+r a-r+o r-o+u o-u sp sp
-hubungan        h+u h-u+b u-b+u b-u+ng u-ng+a ng-a+n a-n sp sp
-hujan           h+u h-u+j u-j+a j-a+n a-n sp sp
-ibara           i+b i-b+a b-a+r a-r+a r-a sp sp
-ibu             i+b i-b+u b-u sp sp
-ide             i+d i-d+e d-e sp sp
-ikut            i+k i-k+u k-u+t u-t sp sp
-ikuti           i+k i-k+u k-u+t u-t+i t-i sp sp
-ingin           i+ng i-ng+i ng-i+n i-n sp sp
-ini             i+n i-n+i n-i sp sp
-isi             i+s i-s+i s-i sp sp
-isinya          i+s i-s+i s-i+ny i-ny+a ny-a sp sp
-istirahat       i+s i-s+t s-t+i t-i+r i-r+a r-a+h a-h+a h-a+t a-t sp sp
-itu             i+t i-t+u t-u sp sp
-itulah          i+t i-t+u t-u+l u-l+a l-a+h a-h sp sp
-iya             i+y i-y+a y-a sp sp
-jadi            j+a j-a+d a-d+i d-i sp sp
-jaga            j+a j-a+g a-g+a g-a sp sp
-jam             j+a j-a+m a-m sp sp
-jangan          j+a j-a+ng a-ng+a ng-a+n a-n sp sp
-jarang          j+a j-a+r a-r+a r-a+ng a-ng sp sp
-jauh            j+a j-a+u a-u+h u-h sp sp
-jawabannya      j+a j-a+w a-w+a w-a+b a-b+a b-a+n a-n+ny n-ny+a ny-a sp sp
-jelas           j+e j-e+l e-l+a l-a+s a-s sp sp
-jir             j+i j-i+r i-r sp sp
-juga            j+u j-u+g u-g+a g-a sp sp
-jumat           j+u j-u+m u-m+a m-a+t a-t sp sp
-jumpa           j+u j-u+m u-m+p m-p+a p-a sp sp
-kaburaya        k+a k-a+b a-b+u b-u+r u-r+a r-a+y a-y+a y-a sp sp
-kah             k+a k-a+h a-h sp sp
-kakak           k+a k-a+k a-k+a k-a+k a-k sp sp
-kalau           k+a k-a+l a-l+a l-a+u a-u sp sp
-kalaupun        k+a k-a+l a-l+a l-a+u a-u+p u-p+u p-u+n u-n sp sp
-kali            k+a k-a+l a-l+i l-i sp sp
-kalian          k+a k-a+l a-l+i l-i+a i-a+n a-n sp sp
-kami            k+a k-a+m a-m+i m-i sp sp
-kamiyama        k+a k-a+m a-m+i m-i+y i-y+a y-a+m a-m+a m-a sp sp
-kamu            k+a k-a+m a-m+u m-u sp sp
-kan             k+a k-a+n a-n sp sp
-kanya           k+a k-a+n a-n+y n-y+a y-a sp sp
-karangan        k+a k-a+r a-r+a r-a+ng a-ng+a ng-a+n a-n sp sp
-karena          k+a k-a+r a-r+e r-e+n e-n+a n-a sp sp
-karna           k+a k-a+r a-r+n r-n+a n-a sp sp
-kasih           k+a k-a+s a-s+i s-i+h i-h sp sp
-kasus           k+a k-a+s a-s+u s-u+s u-s sp sp
-kata            k+a k-a+t a-t+a t-a sp sp
-katakan         k+a k-a+t a-t+a t-a+k a-k+a k-a+n a-n sp sp
-kau             k+a k-a+u a-u sp sp
-kayak           k+a k-a+y a-y+a y-a+k a-k sp sp
-kayaknya        k+a k-a+y a-y+a y-a+k a-k+ny k-ny+a ny-a sp sp
-ke              k+e k-e sp sp
-kebalik         k+e k-e+b e-b+a b-a+l a-l+i l-i+k i-k sp sp
-kebenarannya    k+e k-e+b e-b+e b-e+n e-n+a n-a+r a-r+a r-a+n a-n+ny n-ny+a ny-a sp sp
-keberuntungan   k+e k-e+b e-b+e b-e+r e-r+u r-u+n u-n+t n-t+u t-u+ng u-ng+a ng-a+n a-n sp sp
-kebetulan       k+e k-e+b e-b+e b-e+t e-t+u t-u+l u-l+a l-a+n a-n sp sp
-kebuang         k+e k-e+b e-b+u b-u+a u-a+ng a-ng sp sp
-kedengarannya   k+e k-e+d e-d+e d-e+ng e-ng+a ng-a+r a-r+a r-a+n a-n+ny n-ny+a ny-a sp sp
-kegiatan        k+e k-e+g e-g+i g-i+a i-a+t a-t+a t-a+n a-n sp sp
-kegunaan        k+e k-e+g e-g+u g-u+n u-n+a n-a+a a-a+n a-n sp sp
-kekunci         k+e k-e+k e-k+u k-u+n u-n+c n-c+i c-i sp sp
-kelas           k+e k-e+l e-l+a l-a+s a-s sp sp
-keliatannya     k+e k-e+l e-l+i l-i+a i-a+t a-t+a t-a+n a-n+ny n-ny+a ny-a sp sp
-kelihatannya    k+e k-e+l e-l+i l-i+h i-h+a h-a+t a-t+a t-a+n a-n+ny n-ny+a ny-a sp sp
-kelima          k+e k-e+l e-l+i l-i+m i-m+a m-a sp sp
-kembali         k+e k-e+m e-m+b m-b+a b-a+l a-l+i l-i sp sp
-kembalikan      k+e k-e+m e-m+b m-b+a b-a+l a-l+i l-i+k i-k+a k-a+n a-n sp sp
-kemungkinan     k+e k-e+m e-m+u m-u+ng u-ng+k ng-k+i k-i+n i-n+a n-a+n a-n sp sp
-kenal           k+e k-e+n e-n+a n-a+l a-l sp sp
-kenapa          k+e k-e+n e-n+a n-a+p a-p+a p-a sp sp
-kepakai         k+e k-e+p e-p+a p-a+k a-k+a k-a+i a-i sp sp
-kepalamu        k+e k-e+p e-p+a p-a+l a-l+a l-a+m a-m+u m-u sp sp
-kepikiran       k+e k-e+p e-p+i p-i+k i-k+i k-i+r i-r+a r-a+n a-n sp sp
-kesenian        k+e k-e+s e-s+e s-e+n e-n+i n-i+a i-a+n a-n sp sp
-kesimpulannya   k+e k-e+s e-s+i s-i+m i-m+p m-p+u p-u+l u-l+a l-a+n a-n+ny n-ny+a ny-a sp sp
-ketemu          k+e k-e+t e-t+e t-e+m e-m+u m-u sp sp
-ketua           k+e k-e+t e-t+u t-u+a u-a sp sp
-kita            k+i k-i+t i-t+a t-a sp sp
-klub            k+l k-l+u l-u+b u-b sp sp
-kok             k+o k-o+k o-k sp sp
-komik           k+o k-o+m o-m+i m-i+k i-k sp sp
-kumpulan        k+u k-u+m u-m+p m-p+u p-u+l u-l+a l-a+n a-n sp sp
-kupikirkan      k+u k-u+p u-p+i p-i+k i-k+i k-i+r i-r+k r-k+a k-a+n a-n sp sp
-kutanyakan      k+u k-u+t u-t+a t-a+ny a-ny+a ny-a+k a-k+a k-a+n a-n sp sp
-lagi            l+a l-a+g a-g+i g-i sp sp
-lagian          l+a l-a+g a-g+i g-i+a i-a+n a-n sp sp
-lain            l+a l-a+i a-i+n i-n sp sp
-lainnya         l+a l-a+i a-i+n i-n+ny n-ny+a ny-a sp sp
-lakukan         l+a l-a+k a-k+u k-u+k u-k+a k-a+n a-n sp sp
-lalu            l+a l-a+l a-l+u l-u sp sp
-lama            l+a l-a+m a-m+a m-a sp sp
-lancar          l+a l-a+n a-n+c n-c+a c-a+r a-r sp sp
-langsung        l+a l-a+ng a-ng+s ng-s+u s-u+ng u-ng sp sp
-lebih           l+e l-e+b e-b+i b-i+h i-h sp sp
-lelah           l+e l-e+l e-l+a l-a+h a-h sp sp
-lelucon         l+e l-e+l e-l+u l-u+c u-c+o c-o+n o-n sp sp
-lihat           l+i l-i+h i-h+a h-a+t a-t sp sp
-lima            l+i l-i+m i-m+a m-a sp sp
-loo             l+o l-o+o o-o sp sp
-lukisan         l+u l-u+k u-k+i k-i+s i-s+a s-a+n a-n sp sp
-luuuar          l+u l-u+u u-u+u u-u+a u-a+r a-r sp sp
-maaf            m+a m-a+a a-a+f a-f sp sp
-maka            m+a m-a+k a-k+a k-a sp sp
-makai           m+a m-a+k a-k+a k-a+i a-i sp sp
-makan           m+a m-a+k a-k+a k-a+n a-n sp sp
-makanan         m+a m-a+k a-k+a k-a+n a-n+a n-a+n a-n sp sp
-makanlah        m+a m-a+k a-k+a k-a+n a-n+l n-l+a l-a+h a-h sp sp
-makanya         m+a m-a+k a-k+a k-a+ny a-ny+a ny-a sp sp
-maksudmu        m+a m-a+k a-k+s k-s+u s-u+d u-d+m d-m+u m-u sp sp
-maksudnya       m+a m-a+k a-k+s k-s+u s-u+d u-d+ny d-ny+a ny-a sp sp
-malas           m+a m-a+l a-l+a l-a+s a-s sp sp
-mana            m+a m-a+n a-n+a n-a sp sp
-masakan         m+a m-a+s a-s+a s-a+k a-k+a k-a+n a-n sp sp
-masih           m+a m-a+s a-s+i s-i+h i-h sp sp
-masuk           m+a m-a+s a-s+u s-u+k u-k sp sp
-mau             m+a m-a+u a-u sp sp
-mayaka          m+a m-a+y a-y+a y-a+k a-k+a k-a sp sp
-melakukan       m+e m-e+l e-l+a l-a+k a-k+u k-u+k u-k+a k-a+n a-n sp sp
-melakukannya    m+e m-e+l e-l+a l-a+k a-k+u k-u+k u-k+a k-a+n a-n+ny n-ny+a ny-a sp sp
-melihat         m+e m-e+l e-l+i l-i+h i-h+a h-a+t a-t sp sp
-melukis         m+e m-e+l e-l+u l-u+k u-k+i k-i+s i-s sp sp
-memakainya      m+e m-e+m e-m+a m-a+k a-k+a k-a+i a-i+ny i-ny+a ny-a sp sp
-memang          m+ex m-ex+m ex-m+a m-a+ng a-ng sp sp
-memangnya       m+ex m-ex+m ex-m+a m-a+ng a-ng+ny ng-ny+a ny-a sp sp
-membacanya      m+e m-e+m e-m+b m-b+a b-a+c a-c+a c-a+ny a-ny+a ny-a sp sp
-memberi         m+e m-e+m e-m+b m-b+e b-e+r e-r+i r-i sp sp
-memberiku       m+e m-e+m e-m+b m-b+e b-e+r e-r+i r-i+k i-k+u k-u sp sp
-membicarakan    m+e m-e+m e-m+b m-b+i b-i+c i-c+a c-a+r a-r+a r-a+k a-k+a k-a+n a-n sp sp
-membuat         m+e m-e+m e-m+b m-b+u b-u+a u-a+t a-t sp sp
-membuatku       m+e m-e+m e-m+b m-b+u b-u+a u-a+t a-t+k t-k+u k-u sp sp
-membuatnya      m+e m-e+m e-m+b m-b+u b-u+a u-a+t a-t+ny t-ny+a ny-a sp sp
-memecahkan      m+e m-e+m e-m+e m-e+c e-c+a c-a+h a-h+k h-k+a k-a+n a-n sp sp
-meminjam        m+e m-e+m e-m+i m-i+n i-n+j n-j+a j-a+m a-m sp sp
-meminjamnya     m+e m-e+m e-m+i m-i+n i-n+j n-j+a j-a+m a-m+ny m-ny+a ny-a sp sp
-memuaskan       m+e m-e+m e-m+u m-u+a u-a+s a-s+k s-k+a k-a+n a-n sp sp
-memutuskan      m+e m-e+m e-m+u m-u+t u-t+u t-u+s u-s+k s-k+a k-a+n a-n sp sp
-menarik         m+e m-e+n e-n+a n-a+r a-r+i r-i+k i-k sp sp
-mending         m+e m-e+n e-n+d n-d+i d-i+ng i-ng sp sp
-menemukan       m+e m-e+n e-n+e n-e+m e-m+u m-u+k u-k+a k-a+n a-n sp sp
-menerimanya     m+e m-e+n e-n+e n-e+r e-r+i r-i+m i-m+a m-a+ny a-ny+a ny-a sp sp
-mengatakan      m+e m-e+ng e-ng+a ng-a+t a-t+a t-a+k a-k+a k-a+n a-n sp sp
-mengembalikan   m+e m-e+ng e-ng+e ng-e+m e-m+b m-b+a b-a+l a-l+i l-i+k i-k+a k-a+n a-n sp sp
-mengembalikannya m+e m-e+ng e-ng+e ng-e+m e-m+b m-b+a b-a+l a-l+i l-i+k i-k+a k-a+n a-n+ny n-ny+a ny-a sp sp
-mengerti        m+e m-e+ng e-ng+e ng-e+r e-r+t r-t+i t-i sp sp
-mengganggu      m+e m-e+ng e-ng+g ng-g+a g-a+ng a-ng+g ng-g+u g-u sp sp
-menghadap       m+e m-e+ng e-ng+h ng-h+a h-a+d a-d+a d-a+p a-p sp sp
-mengulek        m+e m-e+ng e-ng+u ng-u+l u-l+e l-e+k e-k sp sp
-menjadi         m+e m-e+n e-n+j n-j+a j-a+d a-d+i d-i sp sp
-menjahit        m+e m-e+n e-n+j n-j+a j-a+h a-h+i h-i+t i-t sp sp
-menolak         m+e m-e+n e-n+o n-o+l o-l+a l-a+k a-k sp sp
-menulis         m+e m-e+n e-n+u n-u+l u-l+i l-i+s i-s sp sp
-menulisnya      m+e m-e+n e-n+u n-u+l u-l+i l-i+s i-s+ny s-ny+a ny-a sp sp
-menurut         m+e m-e+n e-n+u n-u+r u-r+u r-u+t u-t sp sp
-menurutku       m+e m-e+n e-n+u n-u+r u-r+u r-u+t u-t+k t-k+u k-u sp sp
-menurutmu       m+e m-e+n e-n+u n-u+r u-r+u r-u+t u-t+m t-m+u m-u sp sp
-menyebalkan     m+e m-e+ny e-ny+e ny-e+b e-b+a b-a+l a-l+k l-k+a k-a+n a-n sp sp
-menyebutnya     m+e m-e+ny e-ny+e ny-e+b e-b+u b-u+t u-t+ny t-ny+a ny-a sp sp
-menyimpan       m+e m-e+ny e-ny+i ny-i+m i-m+p m-p+a p-a+n a-n sp sp
-mereka          m+e m-e+r e-r+ex r-ex+k ex-k+a k-a sp sp
-meski           m+e m-e+s e-s+k s-k+i k-i sp sp
-mikir           m+i m-i+k i-k+i k-i+r i-r sp sp
-mikirin         m+i m-i+k i-k+i k-i+r i-r+i r-i+n i-n sp sp
-milih           m+i m-i+l i-l+i l-i+h i-h sp sp
-milik           m+i m-i+l i-l+i l-i+k i-k sp sp
-minggu          m+i m-i+ng i-ng+g ng-g+u g-u sp sp
-minggunya       m+i m-i+ng i-ng+g ng-g+u g-u+ny u-ny+a ny-a sp sp
-minjam          m+i m-i+n i-n+j n-j+a j-a+m a-m sp sp
-minjamnya       m+i m-i+n i-n+j n-j+a j-a+m a-m+ny m-ny+a ny-a sp sp
-minum           m+i m-i+n i-n+u n-u+m u-m sp sp
-misal           m+i m-i+s i-s+a s-a+l a-l sp sp
-misalnya        m+i m-i+s i-s+a s-a+l a-l+ny l-ny+a ny-a sp sp
-misteri         m+i m-i+s i-s+t s-t+e t-e+r e-r+i r-i sp sp
-motif           m+o m-o+t o-t+i t-i+f i-f sp sp
-mudah           m+u m-u+d u-d+a d-a+h a-h sp sp
-mukamu          m+u m-u+k u-k+a k-a+m a-m+u m-u sp sp
-mungkin         m+u m-u+ng u-ng+k ng-k+i k-i+n i-n sp sp
-murid           m+u m-u+r u-r+i r-i+d i-d sp sp
-nah             n+a n-a+h a-h sp sp
-nama            n+a n-a+m a-m+a m-a sp sp
-namanya         n+a n-a+m a-m+a m-a+ny a-ny+a ny-a sp sp
-nanti           n+a n-a+n a-n+t n-t+i t-i sp sp
-naungan         n+a n-a+u a-u+ng u-ng+a ng-a+n a-n sp sp
-ngadap          ng+a ng-a+d a-d+a d-a+p a-p sp sp
-ngatur          ng+a ng-a+t a-t+u t-u+r u-r sp sp
-ngemanfaatinmu  ng+e ng-e+m e-m+a m-a+n a-n+f n-f+a f-a+a a-a+t a-t+i t-i+n i-n+m n-m+u m-u sp sp
-ngumpul         ng+u ng-u+m u-m+p m-p+u p-u+l u-l sp sp
-nih             n+i n-i+h i-h sp sp
-nolak           n+o n-o+l o-l+a l-a+k a-k sp sp
-nyium           ny+i ny-i+u i-u+m u-m sp sp
-nyuruh          ny+u ny-u+r u-r+u r-u+h u-h sp sp
-oh              o+h o-h sp sp
-oi              o+i o-i sp sp
-oke             o+k o-k+ex k-ex sp sp
-oktober         o+k o-k+t k-t+o t-o+b o-b+e b-e+r e-r sp sp
-olahraga        o+l o-l+a l-a+h a-h+r h-r+a r-a+g a-g+a g-a sp sp
-ooh             o+o o-o+h o-h sp sp
-orang           o+r o-r+a r-a+ng a-ng sp sp
-oreki           o+r o-r+ex r-ex+k ex-k+i k-i sp sp
-pada            p+a p-a+d a-d+a d-a sp sp
-paham           p+a p-a+h a-h+a h-a+m a-m sp sp
-pakai           p+a p-a+k a-k+a k-a+i a-i sp sp
-panen           p+a p-a+n a-n+ex n-ex+n ex-n sp sp
-partisipasi     p+a p-a+r a-r+t r-t+i t-i+s i-s+i s-i+p i-p+a p-a+s a-s+i s-i sp sp
-pasangan        p+a p-a+s a-s+a s-a+ng a-ng+a ng-a+n a-n sp sp
-pasti           p+a p-a+s a-s+t s-t+i t-i sp sp
-pekerjaannya    p+e p-e+k e-k+e k-e+r e-r+j r-j+a j-a+a a-a+n a-n+ny n-ny+a ny-a sp sp
-pelajaran       p+e p-e+l e-l+a l-a+j a-j+a j-a+r a-r+a r-a+n a-n sp sp
-pemalas         p+e p-e+m e-m+a m-a+l a-l+a l-a+s a-s sp sp
-pembimbing      p+e p-e+m e-m+b m-b+i b-i+m i-m+b m-b+i b-i+ng i-ng sp sp
-peminjaman      p+e p-e+m e-m+i m-i+n i-n+j n-j+a j-a+m a-m+a m-a+n a-n sp sp
-peminjamannya   p+e p-e+m e-m+i m-i+n i-n+j n-j+a j-a+m a-m+a m-a+n a-n+ny n-ny+a ny-a sp sp
-peminjamnya     p+e p-e+m e-m+i m-i+n i-n+j n-j+a j-a+m a-m+ny m-ny+a ny-a sp sp
-penasaran       p+e p-e+n e-n+a n-a+s a-s+a s-a+r a-r+a r-a+n a-n sp sp
-pengencer       p+e p-e+ng e-ng+ex ng-ex+n ex-n+c n-c+ex c-ex+r ex-r sp sp
-penjelasannya   p+e p-e+n e-n+j n-j+e j-e+l e-l+a l-a+s a-s+a s-a+n a-n+ny n-ny+a ny-a sp sp
-penting         p+e p-e+n e-n+t n-t+i t-i+ng i-ng sp sp
-perasaanku      p+e p-e+r e-r+a r-a+s a-s+a s-a+a a-a+n a-n+k n-k+u k-u sp sp
-percuma         p+e p-e+r e-r+c r-c+u c-u+m u-m+a m-a sp sp
-perempuan       p+e p-e+r e-r+e r-e+m e-m+p m-p+u p-u+a u-a+n a-n sp sp
-pergi           p+e p-e+r e-r+g r-g+i g-i sp sp
-permasalahan    p+e p-e+r e-r+m r-m+a m-a+s a-s+a s-a+l a-l+a l-a+h a-h+a h-a+n a-n sp sp
-pernah          p+e p-e+r e-r+n r-n+a n-a+h a-h sp sp
-perpustakaan    p+e p-e+r e-r+p r-p+u p-u+s u-s+t s-t+a t-a+k a-k+a k-a+a a-a+n a-n sp sp
-perpustakaannya p+e p-e+r e-r+p r-p+u p-u+s u-s+t s-t+a t-a+k a-k+a k-a+a a-a+n a-n+ny n-ny+a ny-a sp sp
-pertanyaannya   p+e p-e+r e-r+t r-t+a t-a+ny a-ny+a ny-a+a a-a+n a-n+ny n-ny+a ny-a sp sp
-pesan           p+e p-e+s e-s+a s-a+n a-n sp sp
-piket           p+i p-i+k i-k+ex k-ex+t ex-t sp sp
-piketku         p+i p-i+k i-k+ex k-ex+t ex-t+k t-k+u k-u sp sp
-pikir           p+i p-i+k i-k+i k-i+r i-r sp sp
-pikirin         p+i p-i+k i-k+i k-i+r i-r+i r-i+n i-n sp sp
-pikirkan        p+i p-i+k i-k+i k-i+r i-r+k r-k+a k-a+n a-n sp sp
-pilihan         p+i p-i+l i-l+i l-i+h i-h+a h-a+n a-n sp sp
-pinjam          p+i p-i+n i-n+j n-j+a j-a+m a-m sp sp
-pintar          p+i p-i+n i-n+t n-t+a t-a+r a-r sp sp
-pokoknya        p+o p-o+k o-k+o k-o+k o-k+ny k-ny+a ny-a sp sp
-pribadi         p+r p-r+i r-i+b i-b+a b-a+d a-d+i d-i sp sp
-produksi        p+r p-r+o r-o+d o-d+u d-u+k u-k+s k-s+i s-i sp sp
-publikasikan    p+u p-u+b u-b+l b-l+i l-i+k i-k+a k-a+s a-s+i s-i+k i-k+a k-a+n a-n sp sp
-pulang          p+u p-u+l u-l+a l-a+ng a-ng sp sp
-puluh           p+u p-u+l u-l+u l-u+h u-h sp sp
-pun             p+u p-u+n u-n sp sp
-punya           p+u p-u+ny u-ny+a ny-a sp sp
-pustakawatinya  p+u p-u+s u-s+t s-t+a t-a+k a-k+a k-a+w a-w+a w-a+t a-t+i t-i+ny i-ny+a ny-a sp sp
-putri           p+u p-u+t u-t+r t-r+i r-i sp sp
-rahasia         r+a r-a+h a-h+a h-a+s a-s+i s-i+a i-a sp sp
-ramalan         r+a r-a+m a-m+a m-a+l a-l+a l-a+n a-n sp sp
-rapat           r+a r-a+p a-p+a p-a+t a-t sp sp
-rasa            r+a r-a+s a-s+a s-a sp sp
-ringan          r+i r-i+ng i-ng+a ng-a+n a-n sp sp
-ruang           r+u r-u+a u-a+ng a-ng sp sp
-rumah           r+u r-u+m u-m+a m-a+h a-h sp sp
-rumahku         r+u r-u+m u-m+a m-a+h a-h+k h-k+u k-u sp sp
-saat            s+a s-a+a a-a+t a-t sp sp
-saja            s+a s-a+j a-j+a j-a sp sp
-salah           s+a s-a+l a-l+a l-a+h a-h sp sp
-salam           s+a s-a+l a-l+a l-a+m a-m sp sp
-saling          s+a s-a+l a-l+i l-i+ng i-ng sp sp
-sama            s+a s-a+m a-m+a m-a sp sp
-sampai          s+a s-a+m a-m+p m-p+a p-a+i a-i sp sp
-sampul          s+a s-a+m a-m+p m-p+u p-u+l u-l sp sp
-sana            s+a s-a+n a-n+a n-a sp sp
-sangat          s+a s-a+ng a-ng+a ng-a+t a-t sp sp
-sastra          s+a s-a+s a-s+t s-t+r t-r+a r-a sp sp
-satoshi         s+a s-a+t a-t+o t-o+sy o-sy+i sy-i sp sp
-satu            s+a s-a+t a-t+u t-u sp sp
-sd              ex+s ex-s+d s-d+ex d-ex sp sp
-sebagai         s+e s-e+b e-b+a b-a+g a-g+a g-a+i a-i sp sp
-sebanyak        s+e s-e+b e-b+a b-a+ny a-ny+a ny-a+k a-k sp sp
-sebegitu        s+e s-e+b e-b+e b-e+g e-g+i g-i+t i-t+u t-u sp sp
-sebelum         s+e s-e+b e-b+e b-e+l e-l+u l-u+m u-m sp sp
-sebelumnya      s+e s-e+b e-b+e b-e+l e-l+u l-u+m u-m+ny m-ny+a ny-a sp sp
-sebenarnya      s+e s-e+b e-b+e b-e+n e-n+a n-a+r a-r+ny r-ny+a ny-a sp sp
-sebesar         s+e s-e+b e-b+e b-e+s e-s+a s-a+r a-r sp sp
-sebutan         s+e s-e+b e-b+u b-u+t u-t+a t-a+n a-n sp sp
-secara          s+e s-e+c e-c+a c-a+r a-r+a r-a sp sp
-sedang          s+e s-e+d e-d+a d-a+ng a-ng sp sp
-sedikit         s+e s-e+d e-d+i d-i+k i-k+i k-i+t i-t sp sp
-sejak           s+e s-e+j e-j+a j-a+k a-k sp sp
-sejarah         s+e s-e+j e-j+a j-a+r a-r+a r-a+h a-h sp sp
-sekali          s+e s-e+k e-k+a k-a+l a-l+i l-i sp sp
-sekarang        s+e s-e+k e-k+a k-a+r a-r+a r-a+ng a-ng sp sp
-sekeras         s+e s-e+k e-k+e k-e+r e-r+a r-a+s a-s sp sp
-sekolah         s+e s-e+k e-k+o k-o+l o-l+a l-a+h a-h sp sp
-selain          s+e s-e+l e-l+a l-a+i a-i+n i-n sp sp
-selalu          s+e s-e+l e-l+a l-a+l a-l+u l-u sp sp
-selama          s+e s-e+l e-l+a l-a+m a-m+a m-a sp sp
-selamat         s+e s-e+l e-l+a l-a+m a-m+a m-a+t a-t sp sp
-selesai         s+e s-e+l e-l+e l-e+s e-s+a s-a+i a-i sp sp
-semacam         s+e s-e+m e-m+a m-a+c a-c+a c-a+m a-m sp sp
-seminggu        s+e s-e+m e-m+i m-i+ng i-ng+g ng-g+u g-u sp sp
-semua           s+e s-e+m e-m+u m-u+a u-a sp sp
-semuanya        s+e s-e+m e-m+u m-u+a u-a+ny a-ny+a ny-a sp sp
-sendiri         s+e s-e+n e-n+d n-d+i d-i+r i-r+i r-i sp sp
-sengaja         s+e s-e+ng e-ng+a ng-a+j a-j+a j-a sp sp
-seni            s+e s-e+n e-n+i n-i sp sp
-seperti         s+e s-e+p e-p+e p-e+r e-r+t r-t+i t-i sp sp
-sepertimu       s+e s-e+p e-p+e p-e+r e-r+t r-t+i t-i+m i-m+u m-u sp sp
-sepertinya      s+e s-e+p e-p+e p-e+r e-r+t r-t+i t-i+ny i-ny+a ny-a sp sp
-sepulang        s+e s-e+p e-p+u p-u+l u-l+a l-a+ng a-ng sp sp
-serba           s+e s-e+r e-r+b r-b+a b-a sp sp
-sesuatu         s+e s-e+s e-s+u s-u+a u-a+t a-t+u t-u sp sp
-setahun         s+e s-e+t e-t+a t-a+h a-h+u h-u+n u-n sp sp
-setelah         s+e s-e+t e-t+e t-e+l e-l+a l-a+h a-h sp sp
-setengah        s+e s-e+t e-t+e t-e+ng e-ng+a ng-a+h a-h sp sp
-setiap          s+e s-e+t e-t+i t-i+a i-a+p a-p sp sp
-seyakin         s+e s-e+y e-y+a y-a+k a-k+i k-i+n i-n sp sp
-sialan          s+i s-i+a i-a+l a-l+a l-a+n a-n sp sp
-siang           s+i s-i+a i-a+ng a-ng sp sp
-siapa           s+i s-i+a i-a+p a-p+a p-a sp sp
-sih             s+i s-i+h i-h sp sp
-silakan         s+i s-i+l i-l+a l-a+k a-k+a k-a+n a-n sp sp
-sini            s+i s-i+n i-n+i n-i sp sp
-sip             s+i s-i+p i-p sp sp
-siput           s+i s-i+p i-p+u p-u+t u-t sp sp
-sisa            s+i s-i+s i-s+a s-a sp sp
-sisi            s+i s-i+s i-s+i s-i sp sp
-siswi           s+i s-i+s i-s+w s-w+i w-i sp sp
-sma             ex+s ex-s+ex s-ex+m ex-m+a m-a sp sp
-smp             ex+s ex-s+ex s-ex+m ex-m+p m-p+ex p-ex sp sp
-soalnya         s+o s-o+a o-a+l a-l+ny l-ny+a ny-a sp sp
-stan            s+t s-t+a t-a+n a-n sp sp
-suatu           s+u s-u+a u-a+t a-t+u t-u sp sp
-sudah           s+u s-u+d u-d+a d-a+h a-h sp sp
-suka            s+u s-u+k u-k+a k-a sp sp
-sukarelawan     s+u s-u+k u-k+a k-a+r a-r+ex r-ex+l ex-l+a l-a+w a-w+a w-a+n a-n sp sp
-susah           s+u s-u+s u-s+a s-a+h a-h sp sp
-tadi            t+a t-a+d a-d+i d-i sp sp
-tahu            t+a t-a+h a-h+u h-u sp sp
-tahun           t+a t-a+h a-h+u h-u+n u-n sp sp
-tahunan         t+a t-a+h a-h+u h-u+n u-n+a n-a+n a-n sp sp
-tak             t+a t-a+k a-k sp sp
-tameng          t+a t-a+m a-m+ex m-ex+ng ex-ng sp sp
-tandus          t+a t-a+n a-n+d n-d+u d-u+s u-s sp sp
-tangan          t+a t-a+ng a-ng+a ng-a+n a-n sp sp
-tanpa           t+a t-a+n a-n+p n-p+a p-a sp sp
-tanya           t+a t-a+ny a-ny+a ny-a sp sp
-tapi            t+a t-a+p a-p+i p-i sp sp
-teh             t+ex t-ex+h ex-h sp sp
-tempat          t+e t-e+m e-m+p m-p+a p-a+t a-t sp sp
-tengoklah       t+ex t-ex+ng ex-ng+o ng-o+k o-k+l k-l+a l-a+h a-h sp sp
-tentang         t+e t-e+n e-n+t n-t+a t-a+ng a-ng sp sp
-tentu           t+e t-e+n e-n+t n-t+u t-u sp sp
-terasa          t+e t-e+r e-r+a r-a+s a-s+a s-a sp sp
-terbaik         t+e t-e+r e-r+b r-b+a b-a+i a-i+k i-k sp sp
-terbatasnya     t+e t-e+r e-r+b r-b+a b-a+t a-t+a t-a+s a-s+ny s-ny+a ny-a sp sp
-terdengar       t+e t-e+r e-r+d r-d+e d-e+ng e-ng+a ng-a+r a-r sp sp
-terima          t+e t-e+r e-r+i r-i+m i-m+a m-a sp sp
-terjadi         t+e t-e+r e-r+j r-j+a j-a+d a-d+i d-i sp sp
-terlalu         t+e t-e+r e-r+l r-l+a l-a+l a-l+u l-u sp sp
-terpecahkan     t+e t-e+r e-r+p r-p+e p-e+c e-c+a c-a+h a-h+k h-k+a k-a+n a-n sp sp
-tersinggung     t+e t-e+r e-r+s r-s+i s-i+ng i-ng+g ng-g+u g-u+ng u-ng sp sp
-tertentu        t+e t-e+r e-r+t r-t+e t-e+n e-n+t n-t+u t-u sp sp
-terus           t+e t-e+r e-r+u r-u+s u-s sp sp
-terutama        t+e t-e+r e-r+u r-u+t u-t+a t-a+m a-m+a m-a sp sp
-tetap           t+e t-e+t e-t+a t-a+p a-p sp sp
-tiap            t+i t-i+a i-a+p a-p sp sp
-tiba            t+i t-i+b i-b+a b-a sp sp
-tidak           t+i t-i+d i-d+a d-a+k a-k sp sp
-tolong          t+o t-o+l o-l+o l-o+ng o-ng sp sp
-tradisi         t+r t-r+a r-a+d a-d+i d-i+s i-s+i s-i sp sp
-tuan            t+u t-u+a u-a+n a-n sp sp
-tugas           t+u t-u+g u-g+a g-a+s a-s sp sp
-tuh             t+u t-u+h u-h sp sp
-tujuan          t+u t-u+j u-j+u j-u+a u-a+n a-n sp sp
-tumben          t+u t-u+m u-m+b m-b+ex b-ex+n ex-n sp sp
-tunggu          t+u t-u+ng u-ng+g ng-g+u g-u sp sp
-turut           t+u t-u+r u-r+u r-u+t u-t sp sp
-udah            u+d u-d+a d-a+h a-h sp sp
-udahlah         u+d u-d+a d-a+h a-h+l h-l+a l-a+h a-h sp sp
-untuk           u+n u-n+t n-t+u t-u+k u-k sp sp
-urusan          u+r u-r+u r-u+s u-s+a s-a+n a-n sp sp
-wah             w+a w-a+h a-h sp sp
-waktu           w+a w-a+k a-k+t k-t+u t-u sp sp
-ya              y+a y-a sp sp
-yang            y+a y-a+ng a-ng sp sp
-yap             y+a y-a+p a-p sp sp
-yo              y+o y-o sp sp
-SENT-END sil
+acak            a+c a-c+a c-a+k a-k sp
+ada             a+d a-d+a d-a sp
+adalah          a+d a-d+a d-a+l a-l+a l-a+h a-h sp
+ah              a+h a-h sp
+aja             a+j a-j+a j-a sp
+akal            a+k a-k+a k-a+l a-l sp
+akan            a+k a-k+a k-a+n a-n sp
+akrab           a+k a-k+r k-r+a r-a+b a-b sp
+aku             a+k a-k+u k-u sp
+alasan          a+l a-l+a l-a+s a-s+a s-a+n a-n sp
+anda            a+n a-n+d n-d+a d-a sp
+aneh            a+n a-n+ex n-ex+h ex-h sp
+anggaran        a+ng a-ng+g ng-g+a g-a+r a-r+a r-a+n a-n sp
+antologi        a+n a-n+t n-t+o t-o+l o-l+o l-o+g o-g+i g-i sp
+anu             a+n a-n+u n-u sp
+apa             a+p a-p+a p-a sp
+apalagi         a+p a-p+a p-a+l a-l+a l-a+g a-g+i g-i sp
+apanya          a+p a-p+a p-a+ny a-ny+a ny-a sp
+arsip           a+r a-r+s r-s+i s-i+p i-p sp
+artinya         a+r a-r+t r-t+i t-i+ny i-ny+a ny-a sp
+asmaramu        a+s a-s+m s-m+a m-a+r a-r+a r-a+m a-m+u m-u sp
+atas            a+t a-t+a t-a+s a-s sp
+atau            a+t a-t+a t-a+u a-u sp
+awal            a+w a-w+a w-a+l a-l sp
+ayo             a+y a-y+o y-o sp
+ayolah          a+y a-y+o y-o+l o-l+a l-a+h a-h sp
+bacaan          b+a b-a+c a-c+a c-a+a a-a+n a-n sp
+bacanya         b+a b-a+c a-c+a c-a+ny a-ny+a ny-a sp
+bagaimana       b+a b-a+g a-g+a g-a+i a-i+m i-m+a m-a+n a-n+a n-a sp
+bagaimanapun    b+a b-a+g a-g+a g-a+i a-i+m i-m+a m-a+n a-n+a n-a+p a-p+u p-u+n u-n sp
+bagian          b+a b-a+g a-g+i g-i+a i-a+n a-n sp
+bagus           b+a b-a+g a-g+u g-u+s u-s sp
+baik            b+a b-a+i a-i+k i-k sp
+baiklah         b+a b-a+i a-i+k i-k+l k-l+a l-a+h a-h sp
+bakal           b+a b-a+k a-k+a k-a+l a-l sp
+banget          b+a b-a+ng a-ng+e ng-e+t e-t sp
+bantal          b+a b-a+n a-n+t n-t+a t-a+l a-l sp
+banyak          b+a b-a+ny a-ny+a ny-a+k a-k sp
+bareng          b+a b-a+r a-r+e r-e+ng e-ng sp
+barusan         b+a b-a+r a-r+u r-u+s u-s+a s-a+n a-n sp
+batas           b+a b-a+t a-t+a t-a+s a-s sp
+bau             b+a b-a+u a-u sp
+baunya          b+a b-a+u a-u+ny u-ny+a ny-a sp
+beda            b+ex b-ex+d ex-d+a d-a sp
+begitu          b+e b-e+g e-g+i g-i+t i-t+u t-u sp
+belakang        b+e b-e+l e-l+a l-a+k a-k+a k-a+ng a-ng sp
+belum           b+e b-e+l e-l+u l-u+m u-m sp
+benar           b+e b-e+n e-n+a n-a+r a-r sp
+benda           b+e b-e+n e-n+d n-d+a d-a sp
+bener           b+e b-e+n e-n+e n-e+r e-r sp
+beneran         b+e b-e+n e-n+e n-e+r e-r+a r-a+n a-n sp
+bentar          b+e b-e+n e-n+t n-t+a t-a+r a-r sp
+berarti         b+e b-e+r e-r+a r-a+r a-r+t r-t+i t-i sp
+berbeda         b+e b-e+r e-r+b r-b+ex b-ex+d ex-d+a d-a sp
+bercanda        b+e b-e+r e-r+c r-c+a c-a+n a-n+d n-d+a d-a sp
+berdua          b+e b-e+r e-r+d r-d+u d-u+a u-a sp
+berguna         b+e b-e+r e-r+g r-g+u g-u+n u-n+a n-a sp
+berhenti        b+e b-e+r e-r+h r-h+e h-e+n e-n+t n-t+i t-i sp
+beri            b+e b-e+r e-r+i r-i sp
+berisik         b+e b-e+r e-r+i r-i+s i-s+i s-i+k i-k sp
+berlima         b+e b-e+r e-r+l r-l+i l-i+m i-m+a m-a sp
+berpendidikan   b+e b-e+r e-r+p r-p+e p-e+n e-n+d n-d+i d-i+d i-d+i d-i+k i-k+a k-a+n a-n sp
+bersosialisasi  b+e b-e+r e-r+s r-s+o s-o+s o-s+i s-i+a i-a+l a-l+i l-i+s i-s+a s-a+s a-s+i s-i sp
+berturut        b+e b-e+r e-r+t r-t+u t-u+r u-r+u r-u+t u-t sp
+berubah         b+e b-e+r e-r+u r-u+b u-b+a b-a+h a-h sp
+beruntung       b+e b-e+r e-r+u r-u+n u-n+t n-t+u t-u+ng u-ng sp
+besar           b+e b-e+s e-s+a s-a+r a-r sp
+besarnya        b+e b-e+s e-s+a s-a+r a-r+ny r-ny+a ny-a sp
+betul           b+e b-e+t e-t+u t-u+l u-l sp
+biar            b+i b-i+a i-a+r a-r sp
+biarin          b+i b-i+a i-a+r a-r+i r-i+n i-n sp
+biasa           b+i b-i+a i-a+s a-s+a s-a sp
+bicara          b+i b-i+c i-c+a c-a+r a-r+a r-a sp
+bilang          b+i b-i+l i-l+a l-a+ng a-ng sp
+bingung         b+i b-i+ng i-ng+u ng-u+ng u-ng sp
+bisa            b+i b-i+s i-s+a s-a sp
+boleh           b+o b-o+l o-l+ex l-ex+h ex-h sp
+bolehkah        b+o b-o+l o-l+ex l-ex+h ex-h+k h-k+a k-a+h a-h sp
+bolos           b+o b-o+l o-l+o l-o+s o-s sp
+buat            b+u b-u+a u-a+t a-t sp
+budaya          b+u b-u+d u-d+a d-a+y a-y+a y-a sp
+buka            b+u b-u+k u-k+a k-a sp
+bukan           b+u b-u+k u-k+a k-a+n a-n sp
+buku            b+u b-u+k u-k+u k-u sp
+bukunya         b+u b-u+k u-k+u k-u+ny u-ny+a ny-a sp
+bulan           b+u b-u+l u-l+a l-a+n a-n sp
+bumbu           b+u b-u+m u-m+b m-b+u b-u sp
+cantik          c+a c-a+n a-n+t n-t+i t-i+k i-k sp
+cara            c+a c-a+r a-r+a r-a sp
+cari            c+a c-a+r a-r+i r-i sp
+cat             c+a c-a+t a-t sp
+cerita          c+e c-e+r e-r+i r-i+t i-t+a t-a sp
+ceritakan       c+e c-e+r e-r+i r-i+t i-t+a t-a+k a-k+a k-a+n a-n sp
+chitanda        c+i c-i+t i-t+a t-a+n a-n+d n-d+a d-a sp
+coba            c+o c-o+b o-b+a b-a sp
+cocok           c+o c-o+c o-c+o c-o+k o-k sp
+contoh          c+o c-o+n o-n+t n-t+o t-o+h o-h sp
+cuma            c+u c-u+m u-m+a m-a sp
+d               d+ex d-ex sp
+daftar          d+a d-a+f a-f+t f-t+a t-a+r a-r sp
+dalam           d+a d-a+l a-l+a l-a+m a-m sp
+dan             d+a d-a+n a-n sp
+dana            d+a d-a+n a-n+a n-a sp
+dari            d+a d-a+r a-r+i r-i sp
+daripada        d+a d-a+r a-r+i r-i+p i-p+a p-a+d a-d+a d-a sp
+datang          d+a d-a+t a-t+a t-a+ng a-ng sp
+deh             d+ex d-ex+h ex-h sp
+dengan          d+e d-e+ng e-ng+a ng-a+n a-n sp
+dengar          d+e d-e+ng e-ng+a ng-a+r a-r sp
+depan           d+e d-e+p e-p+a p-a+n a-n sp
+di              d+i d-i sp
+dia             d+i d-i+a i-a sp
+diam            d+i d-i+a i-a+m a-m sp
+dibaca          d+i d-i+b i-b+a b-a+c a-c+a c-a sp
+dibahas         d+i d-i+b i-b+a b-a+h a-h+a h-a+s a-s sp
+dibawa          d+i d-i+b i-b+a b-a+w a-w+a w-a sp
+digunakan       d+i d-i+g i-g+u g-u+n u-n+a n-a+k a-k+a k-a+n a-n sp
+dijadiin        d+i d-i+j i-j+a j-a+d a-d+i d-i+i i-i+n i-n sp
+dikatakan       d+i d-i+k i-k+a k-a+t a-t+a t-a+k a-k+a k-a+n a-n sp
+dikembaliin     d+i d-i+k i-k+e k-e+m e-m+b m-b+a b-a+l a-l+i l-i+i i-i+n i-n sp
+dikembalikan    d+i d-i+k i-k+e k-e+m e-m+b m-b+a b-a+l a-l+i l-i+k i-k+a k-a+n a-n sp
+dilakukan       d+i d-i+l i-l+a l-a+k a-k+u k-u+k u-k+a k-a+n a-n sp
+dilihat         d+i d-i+l i-l+i l-i+h i-h+a h-a+t a-t sp
+dimulai         d+i d-i+m i-m+u m-u+l u-l+a l-a+i a-i sp
+dipakai         d+i d-i+p i-p+a p-a+k a-k+a k-a+i a-i sp
+diperbolehkan   d+i d-i+p i-p+e p-e+r e-r+b r-b+o b-o+l o-l+ex l-ex+h ex-h+k h-k+a k-a+n a-n sp
+dipikirkan      d+i d-i+p i-p+i p-i+k i-k+i k-i+r i-r+k r-k+a k-a+n a-n sp
+dipinjam        d+i d-i+p i-p+i p-i+n i-n+j n-j+a j-a+m a-m sp
+disebutnya      d+i d-i+s i-s+e s-e+b e-b+u b-u+t u-t+ny t-ny+a ny-a sp
+diselenggarakan d+i d-i+s i-s+e s-e+l e-l+e l-e+ng e-ng+g ng-g+a g-a+r a-r+a r-a+k a-k+a k-a+n a-n sp
+disetujui       d+i d-i+s i-s+e s-e+t e-t+u t-u+j u-j+u j-u+i u-i sp
+disimpulkan     d+i d-i+s i-s+i s-i+m i-m+p m-p+u p-u+l u-l+k l-k+a k-a+n a-n sp
+disuruh         d+i d-i+s i-s+u s-u+r u-r+u r-u+h u-h sp
+ditaruh         d+i d-i+t i-t+a t-a+r a-r+u r-u+h u-h sp
+ditumpuk        d+i d-i+t i-t+u t-u+m u-m+p m-p+u p-u+k u-k sp
+dua             d+u d-u+a u-a sp
+dulu            d+u d-u+l u-l+u l-u sp
+e               ex sp
+eh              ex+h ex-h sp
+emangnya        e+m e-m+a m-a+ng a-ng+ny ng-ny+a ny-a sp
+empat           e+m e-m+p m-p+a p-a+t a-t sp
+energi          ex+n ex-n+ex n-ex+r ex-r+g r-g+i g-i sp
+energimu        ex+n ex-n+ex n-ex+r ex-r+g r-g+i g-i+m i-m+u m-u sp
+engak           e+ng e-ng+g ng-g+a g-a+k a-k sp
+enggak          e+ng e-ng+g ng-g+a g-a+k a-k sp
+eru             ex+r ex-r+u r-u sp
+euh             e+h e-h sp
+f               ex+f ex-f sp
+festival        f+e f-e+s e-s+t s-t+i t-i+v i-v+a v-a+l a-l sp
+festival        f+e f-e+s e-s+t s-t+i t-i+f i-f+a f-a+l a-l sp
+fuku            f+u f-u+k u-k+u k-u sp
+gak             g+a g-a+k a-k sp
+ganda           g+a g-a+n a-n+d n-d+a d-a sp
+ganggu          g+a g-a+ng a-ng+g ng-g+u g-u sp
+ganti           g+a g-a+n a-n+t n-t+i t-i sp
+gantian         g+a g-a+n a-n+t n-t+i t-i+a i-a+n a-n sp
+gantiin         g+a g-a+n a-n+t n-t+i t-i+i i-i+n i-n sp
+garing          g+a g-a+r a-r+i r-i+ng i-ng sp
+gedung          g+e g-e+d e-d+u d-u+ng u-ng sp
+gimana          g+i g-i+m i-m+a m-a+n a-n+a n-a sp
+gini            g+i g-i+n i-n+i n-i sp
+ginikah         g+i g-i+n i-n+i n-i+k i-k+a k-a+h a-h sp
+gitu            g+i g-i+t i-t+u t-u sp
+grup            g+r g-r+u r-u+p u-p sp
+gunakan         g+u g-u+n u-n+a n-a+k a-k+a k-a+n a-n sp
+guru            g+u g-u+r u-r+u r-u sp
+ha              h+a h-a sp
+hadeh           h+a h-a+d a-d+e d-e+h e-h sp
+hah             h+a h-a+h a-h sp
+hal             h+a h-a+l a-l sp
+hampa           h+a h-a+m a-m+p m-p+a p-a sp
+hanya           h+a h-a+ny a-ny+a ny-a sp
+hari            h+a h-a+r a-r+i r-i sp
+harus           h+a h-a+r a-r+u r-u+s u-s sp
+harusnya        h+a h-a+r a-r+u r-u+s u-s+ny s-ny+a ny-a sp
+hebat           h+ex h-ex+b ex-b+a b-a+t a-t sp
+heh             h+ex h-ex+h ex-h sp
+hei             h+ex h-ex+i ex-i sp
+hentikan        h+e h-e+n e-n+t n-t+i t-i+k i-k+a k-a+n a-n sp
+heu             h+e h-e sp
+hidup           h+i h-i+d i-d+u d-u+p u-p sp
+hmm             h+m h-m+m m-m sp
+houtarou        h+o h-o+u o-u+t u-t+a t-a+r a-r+o r-o+u o-u sp
+hubungan        h+u h-u+b u-b+u b-u+ng u-ng+a ng-a+n a-n sp
+hujan           h+u h-u+j u-j+a j-a+n a-n sp
+ibara           i+b i-b+a b-a+r a-r+a r-a sp
+ibu             i+b i-b+u b-u sp
+ide             i+d i-d+e d-e sp
+ikut            i+k i-k+u k-u+t u-t sp
+ikuti           i+k i-k+u k-u+t u-t+i t-i sp
+ingin           i+ng i-ng+i ng-i+n i-n sp
+ini             i+n i-n+i n-i sp
+isi             i+s i-s+i s-i sp
+isinya          i+s i-s+i s-i+ny i-ny+a ny-a sp
+istirahat       i+s i-s+t s-t+i t-i+r i-r+a r-a+h a-h+a h-a+t a-t sp
+itu             i+t i-t+u t-u sp
+itulah          i+t i-t+u t-u+l u-l+a l-a+h a-h sp
+iya             i+y i-y+a y-a sp
+jadi            j+a j-a+d a-d+i d-i sp
+jaga            j+a j-a+g a-g+a g-a sp
+jam             j+a j-a+m a-m sp
+jangan          j+a j-a+ng a-ng+a ng-a+n a-n sp
+jarang          j+a j-a+r a-r+a r-a+ng a-ng sp
+jauh            j+a j-a+u a-u+h u-h sp
+jawabannya      j+a j-a+w a-w+a w-a+b a-b+a b-a+n a-n+ny n-ny+a ny-a sp
+jelas           j+e j-e+l e-l+a l-a+s a-s sp
+jir             j+i j-i+r i-r sp
+juga            j+u j-u+g u-g+a g-a sp
+jumat           j+u j-u+m u-m+a m-a+t a-t sp
+jumpa           j+u j-u+m u-m+p m-p+a p-a sp
+kaburaya        k+a k-a+b a-b+u b-u+r u-r+a r-a+y a-y+a y-a sp
+kah             k+a k-a+h a-h sp
+kakak           k+a k-a+k a-k+a k-a+k a-k sp
+kalau           k+a k-a+l a-l+a l-a+u a-u sp
+kalaupun        k+a k-a+l a-l+a l-a+u a-u+p u-p+u p-u+n u-n sp
+kali            k+a k-a+l a-l+i l-i sp
+kalian          k+a k-a+l a-l+i l-i+a i-a+n a-n sp
+kami            k+a k-a+m a-m+i m-i sp
+kamiyama        k+a k-a+m a-m+i m-i+y i-y+a y-a+m a-m+a m-a sp
+kamu            k+a k-a+m a-m+u m-u sp
+kan             k+a k-a+n a-n sp
+kanya           k+a k-a+n a-n+y n-y+a y-a sp
+karangan        k+a k-a+r a-r+a r-a+ng a-ng+a ng-a+n a-n sp
+karena          k+a k-a+r a-r+e r-e+n e-n+a n-a sp
+karna           k+a k-a+r a-r+n r-n+a n-a sp
+kasih           k+a k-a+s a-s+i s-i+h i-h sp
+kasus           k+a k-a+s a-s+u s-u+s u-s sp
+kata            k+a k-a+t a-t+a t-a sp
+katakan         k+a k-a+t a-t+a t-a+k a-k+a k-a+n a-n sp
+kau             k+a k-a+u a-u sp
+kayak           k+a k-a+y a-y+a y-a+k a-k sp
+kayaknya        k+a k-a+y a-y+a y-a+k a-k+ny k-ny+a ny-a sp
+ke              k+e k-e sp
+kebalik         k+e k-e+b e-b+a b-a+l a-l+i l-i+k i-k sp
+kebenarannya    k+e k-e+b e-b+e b-e+n e-n+a n-a+r a-r+a r-a+n a-n+ny n-ny+a ny-a sp
+keberuntungan   k+e k-e+b e-b+e b-e+r e-r+u r-u+n u-n+t n-t+u t-u+ng u-ng+a ng-a+n a-n sp
+kebetulan       k+e k-e+b e-b+e b-e+t e-t+u t-u+l u-l+a l-a+n a-n sp
+kebuang         k+e k-e+b e-b+u b-u+a u-a+ng a-ng sp
+kedengarannya   k+e k-e+d e-d+e d-e+ng e-ng+a ng-a+r a-r+a r-a+n a-n+ny n-ny+a ny-a sp
+kegiatan        k+e k-e+g e-g+i g-i+a i-a+t a-t+a t-a+n a-n sp
+kegunaan        k+e k-e+g e-g+u g-u+n u-n+a n-a+a a-a+n a-n sp
+kekunci         k+e k-e+k e-k+u k-u+n u-n+c n-c+i c-i sp
+kelas           k+e k-e+l e-l+a l-a+s a-s sp
+keliatannya     k+e k-e+l e-l+i l-i+a i-a+t a-t+a t-a+n a-n+ny n-ny+a ny-a sp
+kelihatannya    k+e k-e+l e-l+i l-i+h i-h+a h-a+t a-t+a t-a+n a-n+ny n-ny+a ny-a sp
+kelima          k+e k-e+l e-l+i l-i+m i-m+a m-a sp
+kembali         k+e k-e+m e-m+b m-b+a b-a+l a-l+i l-i sp
+kembalikan      k+e k-e+m e-m+b m-b+a b-a+l a-l+i l-i+k i-k+a k-a+n a-n sp
+kemungkinan     k+e k-e+m e-m+u m-u+ng u-ng+k ng-k+i k-i+n i-n+a n-a+n a-n sp
+kenal           k+e k-e+n e-n+a n-a+l a-l sp
+kenapa          k+e k-e+n e-n+a n-a+p a-p+a p-a sp
+kepakai         k+e k-e+p e-p+a p-a+k a-k+a k-a+i a-i sp
+kepalamu        k+e k-e+p e-p+a p-a+l a-l+a l-a+m a-m+u m-u sp
+kepikiran       k+e k-e+p e-p+i p-i+k i-k+i k-i+r i-r+a r-a+n a-n sp
+kesenian        k+e k-e+s e-s+e s-e+n e-n+i n-i+a i-a+n a-n sp
+kesimpulannya   k+e k-e+s e-s+i s-i+m i-m+p m-p+u p-u+l u-l+a l-a+n a-n+ny n-ny+a ny-a sp
+ketemu          k+e k-e+t e-t+e t-e+m e-m+u m-u sp
+ketua           k+e k-e+t e-t+u t-u+a u-a sp
+kita            k+i k-i+t i-t+a t-a sp
+klub            k+l k-l+u l-u+b u-b sp
+kok             k+o k-o+k o-k sp
+komik           k+o k-o+m o-m+i m-i+k i-k sp
+kumpulan        k+u k-u+m u-m+p m-p+u p-u+l u-l+a l-a+n a-n sp
+kupikirkan      k+u k-u+p u-p+i p-i+k i-k+i k-i+r i-r+k r-k+a k-a+n a-n sp
+kutanyakan      k+u k-u+t u-t+a t-a+ny a-ny+a ny-a+k a-k+a k-a+n a-n sp
+lagi            l+a l-a+g a-g+i g-i sp
+lagian          l+a l-a+g a-g+i g-i+a i-a+n a-n sp
+lain            l+a l-a+i a-i+n i-n sp
+lainnya         l+a l-a+i a-i+n i-n+ny n-ny+a ny-a sp
+lakukan         l+a l-a+k a-k+u k-u+k u-k+a k-a+n a-n sp
+lalu            l+a l-a+l a-l+u l-u sp
+lama            l+a l-a+m a-m+a m-a sp
+lancar          l+a l-a+n a-n+c n-c+a c-a+r a-r sp
+langsung        l+a l-a+ng a-ng+s ng-s+u s-u+ng u-ng sp
+lebih           l+e l-e+b e-b+i b-i+h i-h sp
+lelah           l+e l-e+l e-l+a l-a+h a-h sp
+lelucon         l+e l-e+l e-l+u l-u+c u-c+o c-o+n o-n sp
+lihat           l+i l-i+h i-h+a h-a+t a-t sp
+lima            l+i l-i+m i-m+a m-a sp
+loo             l+o l-o+o o-o sp
+lukisan         l+u l-u+k u-k+i k-i+s i-s+a s-a+n a-n sp
+luuuar          l+u l-u+u u-u+u u-u+a u-a+r a-r sp
+maaf            m+a m-a+a a-a+f a-f sp
+maka            m+a m-a+k a-k+a k-a sp
+makai           m+a m-a+k a-k+a k-a+i a-i sp
+makan           m+a m-a+k a-k+a k-a+n a-n sp
+makanan         m+a m-a+k a-k+a k-a+n a-n+a n-a+n a-n sp
+makanlah        m+a m-a+k a-k+a k-a+n a-n+l n-l+a l-a+h a-h sp
+makanya         m+a m-a+k a-k+a k-a+ny a-ny+a ny-a sp
+maksudmu        m+a m-a+k a-k+s k-s+u s-u+d u-d+m d-m+u m-u sp
+maksudnya       m+a m-a+k a-k+s k-s+u s-u+d u-d+ny d-ny+a ny-a sp
+malas           m+a m-a+l a-l+a l-a+s a-s sp
+mana            m+a m-a+n a-n+a n-a sp
+masakan         m+a m-a+s a-s+a s-a+k a-k+a k-a+n a-n sp
+masih           m+a m-a+s a-s+i s-i+h i-h sp
+masuk           m+a m-a+s a-s+u s-u+k u-k sp
+mau             m+a m-a+u a-u sp
+mayaka          m+a m-a+y a-y+a y-a+k a-k+a k-a sp
+melakukan       m+e m-e+l e-l+a l-a+k a-k+u k-u+k u-k+a k-a+n a-n sp
+melakukannya    m+e m-e+l e-l+a l-a+k a-k+u k-u+k u-k+a k-a+n a-n+ny n-ny+a ny-a sp
+melihat         m+e m-e+l e-l+i l-i+h i-h+a h-a+t a-t sp
+melukis         m+e m-e+l e-l+u l-u+k u-k+i k-i+s i-s sp
+memakainya      m+e m-e+m e-m+a m-a+k a-k+a k-a+i a-i+ny i-ny+a ny-a sp
+memang          m+ex m-ex+m ex-m+a m-a+ng a-ng sp
+memangnya       m+ex m-ex+m ex-m+a m-a+ng a-ng+ny ng-ny+a ny-a sp
+membacanya      m+e m-e+m e-m+b m-b+a b-a+c a-c+a c-a+ny a-ny+a ny-a sp
+memberi         m+e m-e+m e-m+b m-b+e b-e+r e-r+i r-i sp
+memberiku       m+e m-e+m e-m+b m-b+e b-e+r e-r+i r-i+k i-k+u k-u sp
+membicarakan    m+e m-e+m e-m+b m-b+i b-i+c i-c+a c-a+r a-r+a r-a+k a-k+a k-a+n a-n sp
+membuat         m+e m-e+m e-m+b m-b+u b-u+a u-a+t a-t sp
+membuatku       m+e m-e+m e-m+b m-b+u b-u+a u-a+t a-t+k t-k+u k-u sp
+membuatnya      m+e m-e+m e-m+b m-b+u b-u+a u-a+t a-t+ny t-ny+a ny-a sp
+memecahkan      m+e m-e+m e-m+e m-e+c e-c+a c-a+h a-h+k h-k+a k-a+n a-n sp
+meminjam        m+e m-e+m e-m+i m-i+n i-n+j n-j+a j-a+m a-m sp
+meminjamnya     m+e m-e+m e-m+i m-i+n i-n+j n-j+a j-a+m a-m+ny m-ny+a ny-a sp
+memuaskan       m+e m-e+m e-m+u m-u+a u-a+s a-s+k s-k+a k-a+n a-n sp
+memutuskan      m+e m-e+m e-m+u m-u+t u-t+u t-u+s u-s+k s-k+a k-a+n a-n sp
+menarik         m+e m-e+n e-n+a n-a+r a-r+i r-i+k i-k sp
+mending         m+e m-e+n e-n+d n-d+i d-i+ng i-ng sp
+menemukan       m+e m-e+n e-n+e n-e+m e-m+u m-u+k u-k+a k-a+n a-n sp
+menerimanya     m+e m-e+n e-n+e n-e+r e-r+i r-i+m i-m+a m-a+ny a-ny+a ny-a sp
+mengatakan      m+e m-e+ng e-ng+a ng-a+t a-t+a t-a+k a-k+a k-a+n a-n sp
+mengembalikan   m+e m-e+ng e-ng+e ng-e+m e-m+b m-b+a b-a+l a-l+i l-i+k i-k+a k-a+n a-n sp
+mengembalikannya m+e m-e+ng e-ng+e ng-e+m e-m+b m-b+a b-a+l a-l+i l-i+k i-k+a k-a+n a-n+ny n-ny+a ny-a sp
+mengerti        m+e m-e+ng e-ng+e ng-e+r e-r+t r-t+i t-i sp
+mengganggu      m+e m-e+ng e-ng+g ng-g+a g-a+ng a-ng+g ng-g+u g-u sp
+menghadap       m+e m-e+ng e-ng+h ng-h+a h-a+d a-d+a d-a+p a-p sp
+mengulek        m+e m-e+ng e-ng+u ng-u+l u-l+e l-e+k e-k sp
+menjadi         m+e m-e+n e-n+j n-j+a j-a+d a-d+i d-i sp
+menjahit        m+e m-e+n e-n+j n-j+a j-a+h a-h+i h-i+t i-t sp
+menolak         m+e m-e+n e-n+o n-o+l o-l+a l-a+k a-k sp
+menulis         m+e m-e+n e-n+u n-u+l u-l+i l-i+s i-s sp
+menulisnya      m+e m-e+n e-n+u n-u+l u-l+i l-i+s i-s+ny s-ny+a ny-a sp
+menurut         m+e m-e+n e-n+u n-u+r u-r+u r-u+t u-t sp
+menurutku       m+e m-e+n e-n+u n-u+r u-r+u r-u+t u-t+k t-k+u k-u sp
+menurutmu       m+e m-e+n e-n+u n-u+r u-r+u r-u+t u-t+m t-m+u m-u sp
+menyebalkan     m+e m-e+ny e-ny+e ny-e+b e-b+a b-a+l a-l+k l-k+a k-a+n a-n sp
+menyebutnya     m+e m-e+ny e-ny+e ny-e+b e-b+u b-u+t u-t+ny t-ny+a ny-a sp
+menyimpan       m+e m-e+ny e-ny+i ny-i+m i-m+p m-p+a p-a+n a-n sp
+mereka          m+e m-e+r e-r+ex r-ex+k ex-k+a k-a sp
+meski           m+e m-e+s e-s+k s-k+i k-i sp
+mikir           m+i m-i+k i-k+i k-i+r i-r sp
+mikirin         m+i m-i+k i-k+i k-i+r i-r+i r-i+n i-n sp
+milih           m+i m-i+l i-l+i l-i+h i-h sp
+milik           m+i m-i+l i-l+i l-i+k i-k sp
+minggu          m+i m-i+ng i-ng+g ng-g+u g-u sp
+minggunya       m+i m-i+ng i-ng+g ng-g+u g-u+ny u-ny+a ny-a sp
+minjam          m+i m-i+n i-n+j n-j+a j-a+m a-m sp
+minjamnya       m+i m-i+n i-n+j n-j+a j-a+m a-m+ny m-ny+a ny-a sp
+minum           m+i m-i+n i-n+u n-u+m u-m sp
+misal           m+i m-i+s i-s+a s-a+l a-l sp
+misalnya        m+i m-i+s i-s+a s-a+l a-l+ny l-ny+a ny-a sp
+misteri         m+i m-i+s i-s+t s-t+e t-e+r e-r+i r-i sp
+motif           m+o m-o+t o-t+i t-i+f i-f sp
+mudah           m+u m-u+d u-d+a d-a+h a-h sp
+mukamu          m+u m-u+k u-k+a k-a+m a-m+u m-u sp
+mungkin         m+u m-u+ng u-ng+k ng-k+i k-i+n i-n sp
+murid           m+u m-u+r u-r+i r-i+d i-d sp
+nah             n+a n-a+h a-h sp
+nama            n+a n-a+m a-m+a m-a sp
+namanya         n+a n-a+m a-m+a m-a+ny a-ny+a ny-a sp
+nanti           n+a n-a+n a-n+t n-t+i t-i sp
+naungan         n+a n-a+u a-u+ng u-ng+a ng-a+n a-n sp
+ngadap          ng+a ng-a+d a-d+a d-a+p a-p sp
+ngatur          ng+a ng-a+t a-t+u t-u+r u-r sp
+ngemanfaatinmu  ng+e ng-e+m e-m+a m-a+n a-n+f n-f+a f-a+a a-a+t a-t+i t-i+n i-n+m n-m+u m-u sp
+ngumpul         ng+u ng-u+m u-m+p m-p+u p-u+l u-l sp
+nih             n+i n-i+h i-h sp
+nolak           n+o n-o+l o-l+a l-a+k a-k sp
+nyium           ny+i ny-i+u i-u+m u-m sp
+nyuruh          ny+u ny-u+r u-r+u r-u+h u-h sp
+oh              o+h o-h sp
+oi              o+i o-i sp
+oke             o+k o-k+ex k-ex sp
+oktober         o+k o-k+t k-t+o t-o+b o-b+e b-e+r e-r sp
+olahraga        o+l o-l+a l-a+h a-h+r h-r+a r-a+g a-g+a g-a sp
+ooh             o+o o-o+h o-h sp
+orang           o+r o-r+a r-a+ng a-ng sp
+oreki           o+r o-r+ex r-ex+k ex-k+i k-i sp
+pada            p+a p-a+d a-d+a d-a sp
+paham           p+a p-a+h a-h+a h-a+m a-m sp
+pakai           p+a p-a+k a-k+a k-a+i a-i sp
+panen           p+a p-a+n a-n+ex n-ex+n ex-n sp
+partisipasi     p+a p-a+r a-r+t r-t+i t-i+s i-s+i s-i+p i-p+a p-a+s a-s+i s-i sp
+pasangan        p+a p-a+s a-s+a s-a+ng a-ng+a ng-a+n a-n sp
+pasti           p+a p-a+s a-s+t s-t+i t-i sp
+pekerjaannya    p+e p-e+k e-k+e k-e+r e-r+j r-j+a j-a+a a-a+n a-n+ny n-ny+a ny-a sp
+pelajaran       p+e p-e+l e-l+a l-a+j a-j+a j-a+r a-r+a r-a+n a-n sp
+pemalas         p+e p-e+m e-m+a m-a+l a-l+a l-a+s a-s sp
+pembimbing      p+e p-e+m e-m+b m-b+i b-i+m i-m+b m-b+i b-i+ng i-ng sp
+peminjaman      p+e p-e+m e-m+i m-i+n i-n+j n-j+a j-a+m a-m+a m-a+n a-n sp
+peminjamannya   p+e p-e+m e-m+i m-i+n i-n+j n-j+a j-a+m a-m+a m-a+n a-n+ny n-ny+a ny-a sp
+peminjamnya     p+e p-e+m e-m+i m-i+n i-n+j n-j+a j-a+m a-m+ny m-ny+a ny-a sp
+penasaran       p+e p-e+n e-n+a n-a+s a-s+a s-a+r a-r+a r-a+n a-n sp
+pengencer       p+e p-e+ng e-ng+ex ng-ex+n ex-n+c n-c+ex c-ex+r ex-r sp
+penjelasannya   p+e p-e+n e-n+j n-j+e j-e+l e-l+a l-a+s a-s+a s-a+n a-n+ny n-ny+a ny-a sp
+penting         p+e p-e+n e-n+t n-t+i t-i+ng i-ng sp
+perasaanku      p+e p-e+r e-r+a r-a+s a-s+a s-a+a a-a+n a-n+k n-k+u k-u sp
+percuma         p+e p-e+r e-r+c r-c+u c-u+m u-m+a m-a sp
+perempuan       p+e p-e+r e-r+e r-e+m e-m+p m-p+u p-u+a u-a+n a-n sp
+pergi           p+e p-e+r e-r+g r-g+i g-i sp
+permasalahan    p+e p-e+r e-r+m r-m+a m-a+s a-s+a s-a+l a-l+a l-a+h a-h+a h-a+n a-n sp
+pernah          p+e p-e+r e-r+n r-n+a n-a+h a-h sp
+perpustakaan    p+e p-e+r e-r+p r-p+u p-u+s u-s+t s-t+a t-a+k a-k+a k-a+a a-a+n a-n sp
+perpustakaannya p+e p-e+r e-r+p r-p+u p-u+s u-s+t s-t+a t-a+k a-k+a k-a+a a-a+n a-n+ny n-ny+a ny-a sp
+pertanyaannya   p+e p-e+r e-r+t r-t+a t-a+ny a-ny+a ny-a+a a-a+n a-n+ny n-ny+a ny-a sp
+pesan           p+e p-e+s e-s+a s-a+n a-n sp
+piket           p+i p-i+k i-k+ex k-ex+t ex-t sp
+piketku         p+i p-i+k i-k+ex k-ex+t ex-t+k t-k+u k-u sp
+pikir           p+i p-i+k i-k+i k-i+r i-r sp
+pikirin         p+i p-i+k i-k+i k-i+r i-r+i r-i+n i-n sp
+pikirkan        p+i p-i+k i-k+i k-i+r i-r+k r-k+a k-a+n a-n sp
+pilihan         p+i p-i+l i-l+i l-i+h i-h+a h-a+n a-n sp
+pinjam          p+i p-i+n i-n+j n-j+a j-a+m a-m sp
+pintar          p+i p-i+n i-n+t n-t+a t-a+r a-r sp
+pokoknya        p+o p-o+k o-k+o k-o+k o-k+ny k-ny+a ny-a sp
+pribadi         p+r p-r+i r-i+b i-b+a b-a+d a-d+i d-i sp
+produksi        p+r p-r+o r-o+d o-d+u d-u+k u-k+s k-s+i s-i sp
+publikasikan    p+u p-u+b u-b+l b-l+i l-i+k i-k+a k-a+s a-s+i s-i+k i-k+a k-a+n a-n sp
+pulang          p+u p-u+l u-l+a l-a+ng a-ng sp
+puluh           p+u p-u+l u-l+u l-u+h u-h sp
+pun             p+u p-u+n u-n sp
+punya           p+u p-u+ny u-ny+a ny-a sp
+pustakawatinya  p+u p-u+s u-s+t s-t+a t-a+k a-k+a k-a+w a-w+a w-a+t a-t+i t-i+ny i-ny+a ny-a sp
+putri           p+u p-u+t u-t+r t-r+i r-i sp
+rahasia         r+a r-a+h a-h+a h-a+s a-s+i s-i+a i-a sp
+ramalan         r+a r-a+m a-m+a m-a+l a-l+a l-a+n a-n sp
+rapat           r+a r-a+p a-p+a p-a+t a-t sp
+rasa            r+a r-a+s a-s+a s-a sp
+ringan          r+i r-i+ng i-ng+a ng-a+n a-n sp
+ruang           r+u r-u+a u-a+ng a-ng sp
+rumah           r+u r-u+m u-m+a m-a+h a-h sp
+rumahku         r+u r-u+m u-m+a m-a+h a-h+k h-k+u k-u sp
+saat            s+a s-a+a a-a+t a-t sp
+saja            s+a s-a+j a-j+a j-a sp
+salah           s+a s-a+l a-l+a l-a+h a-h sp
+salam           s+a s-a+l a-l+a l-a+m a-m sp
+saling          s+a s-a+l a-l+i l-i+ng i-ng sp
+sama            s+a s-a+m a-m+a m-a sp
+sampai          s+a s-a+m a-m+p m-p+a p-a+i a-i sp
+sampul          s+a s-a+m a-m+p m-p+u p-u+l u-l sp
+sana            s+a s-a+n a-n+a n-a sp
+sangat          s+a s-a+ng a-ng+a ng-a+t a-t sp
+sastra          s+a s-a+s a-s+t s-t+r t-r+a r-a sp
+satoshi         s+a s-a+t a-t+o t-o+sy o-sy+i sy-i sp
+satoshi         s+a s-a+t a-t+o t-o+s o-s+i s-i sp
+satu            s+a s-a+t a-t+u t-u sp
+sd              ex+s ex-s+d s-d+ex d-ex sp
+sebagai         s+e s-e+b e-b+a b-a+g a-g+a g-a+i a-i sp
+sebanyak        s+e s-e+b e-b+a b-a+ny a-ny+a ny-a+k a-k sp
+sebegitu        s+e s-e+b e-b+e b-e+g e-g+i g-i+t i-t+u t-u sp
+sebelum         s+e s-e+b e-b+e b-e+l e-l+u l-u+m u-m sp
+sebelumnya      s+e s-e+b e-b+e b-e+l e-l+u l-u+m u-m+ny m-ny+a ny-a sp
+sebenarnya      s+e s-e+b e-b+e b-e+n e-n+a n-a+r a-r+ny r-ny+a ny-a sp
+sebesar         s+e s-e+b e-b+e b-e+s e-s+a s-a+r a-r sp
+sebutan         s+e s-e+b e-b+u b-u+t u-t+a t-a+n a-n sp
+secara          s+e s-e+c e-c+a c-a+r a-r+a r-a sp
+sedang          s+e s-e+d e-d+a d-a+ng a-ng sp
+sedikit         s+e s-e+d e-d+i d-i+k i-k+i k-i+t i-t sp
+sejak           s+e s-e+j e-j+a j-a+k a-k sp
+sejarah         s+e s-e+j e-j+a j-a+r a-r+a r-a+h a-h sp
+sekali          s+e s-e+k e-k+a k-a+l a-l+i l-i sp
+sekarang        s+e s-e+k e-k+a k-a+r a-r+a r-a+ng a-ng sp
+sekeras         s+e s-e+k e-k+e k-e+r e-r+a r-a+s a-s sp
+sekolah         s+e s-e+k e-k+o k-o+l o-l+a l-a+h a-h sp
+selain          s+e s-e+l e-l+a l-a+i a-i+n i-n sp
+selalu          s+e s-e+l e-l+a l-a+l a-l+u l-u sp
+selama          s+e s-e+l e-l+a l-a+m a-m+a m-a sp
+selamat         s+e s-e+l e-l+a l-a+m a-m+a m-a+t a-t sp
+selesai         s+e s-e+l e-l+e l-e+s e-s+a s-a+i a-i sp
+semacam         s+e s-e+m e-m+a m-a+c a-c+a c-a+m a-m sp
+seminggu        s+e s-e+m e-m+i m-i+ng i-ng+g ng-g+u g-u sp
+semua           s+e s-e+m e-m+u m-u+a u-a sp
+semuanya        s+e s-e+m e-m+u m-u+a u-a+ny a-ny+a ny-a sp
+sendiri         s+e s-e+n e-n+d n-d+i d-i+r i-r+i r-i sp
+sengaja         s+e s-e+ng e-ng+a ng-a+j a-j+a j-a sp
+seni            s+e s-e+n e-n+i n-i sp
+seperti         s+e s-e+p e-p+e p-e+r e-r+t r-t+i t-i sp
+sepertimu       s+e s-e+p e-p+e p-e+r e-r+t r-t+i t-i+m i-m+u m-u sp
+sepertinya      s+e s-e+p e-p+e p-e+r e-r+t r-t+i t-i+ny i-ny+a ny-a sp
+sepulang        s+e s-e+p e-p+u p-u+l u-l+a l-a+ng a-ng sp
+serba           s+e s-e+r e-r+b r-b+a b-a sp
+sesuatu         s+e s-e+s e-s+u s-u+a u-a+t a-t+u t-u sp
+setahun         s+e s-e+t e-t+a t-a+h a-h+u h-u+n u-n sp
+setelah         s+e s-e+t e-t+e t-e+l e-l+a l-a+h a-h sp
+setengah        s+e s-e+t e-t+e t-e+ng e-ng+a ng-a+h a-h sp
+setiap          s+e s-e+t e-t+i t-i+a i-a+p a-p sp
+seyakin         s+e s-e+y e-y+a y-a+k a-k+i k-i+n i-n sp
+sialan          s+i s-i+a i-a+l a-l+a l-a+n a-n sp
+siang           s+i s-i+a i-a+ng a-ng sp
+siapa           s+i s-i+a i-a+p a-p+a p-a sp
+sih             s+i s-i+h i-h sp
+silakan         s+i s-i+l i-l+a l-a+k a-k+a k-a+n a-n sp
+sini            s+i s-i+n i-n+i n-i sp
+sip             s+i s-i+p i-p sp
+siput           s+i s-i+p i-p+u p-u+t u-t sp
+sisa            s+i s-i+s i-s+a s-a sp
+sisi            s+i s-i+s i-s+i s-i sp
+siswi           s+i s-i+s i-s+w s-w+i w-i sp
+sma             ex+s ex-s+ex s-ex+m ex-m+a m-a sp
+smp             ex+s ex-s+ex s-ex+m ex-m+p m-p+ex p-ex sp
+soalnya         s+o s-o+a o-a+l a-l+ny l-ny+a ny-a sp
+stan            s+t s-t+a t-a+n a-n sp
+suatu           s+u s-u+a u-a+t a-t+u t-u sp
+sudah           s+u s-u+d u-d+a d-a+h a-h sp
+suka            s+u s-u+k u-k+a k-a sp
+sukarelawan     s+u s-u+k u-k+a k-a+r a-r+ex r-ex+l ex-l+a l-a+w a-w+a w-a+n a-n sp
+susah           s+u s-u+s u-s+a s-a+h a-h sp
+tadi            t+a t-a+d a-d+i d-i sp
+tahu            t+a t-a+h a-h+u h-u sp
+tahun           t+a t-a+h a-h+u h-u+n u-n sp
+tahunan         t+a t-a+h a-h+u h-u+n u-n+a n-a+n a-n sp
+tak             t+a t-a+k a-k sp
+tameng          t+a t-a+m a-m+ex m-ex+ng ex-ng sp
+tandus          t+a t-a+n a-n+d n-d+u d-u+s u-s sp
+tangan          t+a t-a+ng a-ng+a ng-a+n a-n sp
+tanpa           t+a t-a+n a-n+p n-p+a p-a sp
+tanya           t+a t-a+ny a-ny+a ny-a sp
+tapi            t+a t-a+p a-p+i p-i sp
+teh             t+ex t-ex+h ex-h sp
+tempat          t+e t-e+m e-m+p m-p+a p-a+t a-t sp
+tengoklah       t+ex t-ex+ng ex-ng+o ng-o+k o-k+l k-l+a l-a+h a-h sp
+tentang         t+e t-e+n e-n+t n-t+a t-a+ng a-ng sp
+tentu           t+e t-e+n e-n+t n-t+u t-u sp
+terasa          t+e t-e+r e-r+a r-a+s a-s+a s-a sp
+terbaik         t+e t-e+r e-r+b r-b+a b-a+i a-i+k i-k sp
+terbatasnya     t+e t-e+r e-r+b r-b+a b-a+t a-t+a t-a+s a-s+ny s-ny+a ny-a sp
+terdengar       t+e t-e+r e-r+d r-d+e d-e+ng e-ng+a ng-a+r a-r sp
+terima          t+e t-e+r e-r+i r-i+m i-m+a m-a sp
+terjadi         t+e t-e+r e-r+j r-j+a j-a+d a-d+i d-i sp
+terlalu         t+e t-e+r e-r+l r-l+a l-a+l a-l+u l-u sp
+terpecahkan     t+e t-e+r e-r+p r-p+e p-e+c e-c+a c-a+h a-h+k h-k+a k-a+n a-n sp
+tersinggung     t+e t-e+r e-r+s r-s+i s-i+ng i-ng+g ng-g+u g-u+ng u-ng sp
+tertentu        t+e t-e+r e-r+t r-t+e t-e+n e-n+t n-t+u t-u sp
+terus           t+e t-e+r e-r+u r-u+s u-s sp
+terutama        t+e t-e+r e-r+u r-u+t u-t+a t-a+m a-m+a m-a sp
+tetap           t+e t-e+t e-t+a t-a+p a-p sp
+tiap            t+i t-i+a i-a+p a-p sp
+tiba            t+i t-i+b i-b+a b-a sp
+tidak           t+i t-i+d i-d+a d-a+k a-k sp
+tolong          t+o t-o+l o-l+o l-o+ng o-ng sp
+tradisi         t+r t-r+a r-a+d a-d+i d-i+s i-s+i s-i sp
+tuan            t+u t-u+a u-a+n a-n sp
+tugas           t+u t-u+g u-g+a g-a+s a-s sp
+tuh             t+u t-u+h u-h sp
+tujuan          t+u t-u+j u-j+u j-u+a u-a+n a-n sp
+tumben          t+u t-u+m u-m+b m-b+ex b-ex+n ex-n sp
+tunggu          t+u t-u+ng u-ng+g ng-g+u g-u sp
+turut           t+u t-u+r u-r+u r-u+t u-t sp
+udah            u+d u-d+a d-a+h a-h sp
+udahlah         u+d u-d+a d-a+h a-h+l h-l+a l-a+h a-h sp
+untuk           u+n u-n+t n-t+u t-u+k u-k sp
+urusan          u+r u-r+u r-u+s u-s+a s-a+n a-n sp
+wah             w+a w-a+h a-h sp
+waktu           w+a w-a+k a-k+t k-t+u t-u sp
+ya              y+a y-a sp
+yang            y+a y-a+ng a-ng sp
+yap             y+a y-a+p a-p sp
+yo              y+o y-o sp
 SENT-START sil
+SENT-END sil

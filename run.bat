@@ -1,3 +1,4 @@
+CALL updatelexicon.bat
 CALL wavtomfcc.bat
 CALL parsegrammar.bat
 CALL phonerespawn.bat

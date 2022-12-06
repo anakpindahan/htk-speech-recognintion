@@ -1,0 +1,1 @@
+HVite -C config\extractlive.conf -H hmms\hmm.15\macros -H hmms\hmm.15\hmmdefs  -w data\grammar\grammar.slf -p 0.0 -s 5.0 output\dict-tri output\tiedlist0
